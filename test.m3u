@@ -1,225 +1,169 @@
-#‎EXTINF‬:-1 FOX SPORT 1
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 FOX SPORT 2
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 ESPN HD
+#‎EXTINF‬:-1,BEIN SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@‪#‎Z‬
+#EXTINF:-1,BEIN SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 3
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 4
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 5
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 6
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 7
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 8
+rtmp://$OPT:rtmp-raw=rtmp://89.248.172.57:443/liverepeater playpath=166331 pageUrl=http://biggestplayer.me/ token=‪#‎atd‬%#$ZH
+#EXTINF:-1,BEIN SPORT 9
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 10
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 11
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 12
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1,beIN sport 1
+rtmp://$OPT:rtmp-raw=rtmpe://l.xuscacamusca.se/r/ playpath=1b342 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24104&width=100%&height=100%
+#EXTINF:-1,beIN sport 2
+rtmp://$OPT:rtmp-raw=rtmpe://l.xuscacamusca.se/r/ playpath=2b878 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24105&width=100%&height=100%
+#EXTINF:-1,beIN sport 3
+rtmp://$OPT:rtmp-raw=rtmpe://l.xuscacamusca.se/r/ playpath=3b426 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24106&width=100%&height=100%
+#EXTINF:-1,beIN sport 4
+rtmp://$OPT:rtmp-raw=rtmpe://l.xuscacamusca.se/r/ playpath=4b206 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24110&width=100%&height=100%
+#EXTINF:-1,beIN sport 5
+rtmp://$OPT:rtmp-raw=rtmpe://l.xuscacamusca.se/r/ playpath=5b981 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24111&width=100%&height=100%
+#EXTINF:-1,beIN sport 6
+rtmp://$OPT:rtmp-raw=rtmpe://l.xuscacamusca.se/r/ playpath=6b660 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24112&width=100%&height=100%
+#EXTINF:-1,beIN sport 7
+rtmp://$OPT:rtmp-raw=rtmpe://l.xuscacamusca.se/r/ playpath=7b842 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24113&width=100%&height=100%
+#EXTINF:-1,beIN sport 8
+rtmp://$OPT:rtmp-raw=rtmpe://l.xuscacamusca.se/r/ playpath=7b842 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24114&width=100%&height=100%
+
+#EXTINF:-1,SPORT-TV1
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,SPORT-TV2
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,SPORT-TV3
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1,SPORT-TV4
+rtmp://$OPT:rtmp-raw=rtmpe://r.livecast.cc/rs/ playpath=live4-w04by swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
+
+#EXTINF:-1,ArenaSport 1
+rtmp://$OPT:rtmp-raw=rtmp://146.185.253.120:1935/live playpath=ar11a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/ token=#kurac#Od#Ovce#
+#EXTINF:-1,ArenaSport 2
+rtmp://$OPT:rtmp-raw=rtmp://146.185.253.120:1935/live playpath=ar21a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/ token=#kurac#Od#Ovce#
+#EXTINF:-1,ArenaSport 3
+rtmp://$OPT:rtmp-raw=rtmp://146.185.253.120:1935/live playpath=ar31a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/ token=#kurac#Od#Ovce#
+#EXTINF:-1,ArenaSport 4
+rtmp://$OPT:rtmp-raw=rtmp://146.185.253.120:1935/live playpath=ar41a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/ token=#kurac#Od#Ovce#
+#EXTINF:-1,ArenaSport 5
+rtmp://$OPT:rtmp-raw=rtmp://146.185.253.120:1935/live playpath=ar51a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/ token=#kurac#Od#Ovce#
+
+#EXTINF:-1,SKY SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=sky01ita pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SKY SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=skyita2new pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SKY SPORT 3
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=sky03itanew pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SKYSPORTS UK:SKY SPORTS 1
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sskys1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,SKYSPORTS UK:SKY SPORTS 2
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sskys2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,SKYSPORTS UK:SKY SPORTS 3
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sskys3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,SKYSPORTS UK:SKY SPORTS 4
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sskys4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,SKYSPORTS UK:SKY SPORTS 5
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,SKYSPORTS UK:SKY SPORTS F1
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sskysf1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+
+#EXTINF:-1,BT SPORT:BT SPORT 1
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sbt1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,BT SPORT:BT SPORT 2
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sbt2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,BT SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=btssk1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BT SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=btssk2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1,CANAL+LIGA
+rtmp://$OPT:rtmp-raw=rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,CANAL+LIGA
+rtmp://$OPT:rtmp-raw=rtmp://46.28.49.156/live playpath=cararal?id=74466 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,CANAL+LIGA
+rtmp://$OPT:rtmp-raw=rtmp://207.244.89.21/iguide playpath=ysxj77na2vpbpxl swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDloboi
+#EXTINF:-1,CANAL+FUTBOL
+rtmp://$OPT:rtmp-raw=rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,CANAL+DEPORTES
+rtmp://$OPT:rtmp-raw=rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,CANAL+LIGA DE CAMPEONES
+rtmp://$OPT:rtmp-raw=rtmp://109.123.116.154/live playpath=cararatalct?id=74508 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,FOX SPORTS
+rtmp://$OPT:rtmp-raw=rtmp://212.7.209.16/live playpath=foxsportvip?id=74021 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,FOX SPORTS2
+rtmp://$OPT:rtmp-raw=rtmp://109.123.116.154/live playpath=foxsport2vip?id=74022 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,FOX SPORTS
+rtmp://$OPT:rtmp-raw=rtmp://live.flexstream.net/redirect playpath=adnyv swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://flexstream.net/
+#EXTINF:-1,GOL TV
+rtmp://$OPT:rtmp-raw=rtmp://207.244.89.21/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDloboi
+#EXTINF:-1,GOL TV
+rtmp://$OPT:rtmp-raw=rtmp://212.7.209.16/live playpath=cararatag?id=74467 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,TDN DEPORTES
+rtmp://$OPT:rtmp-raw=rtmp://137.63.71.58/edge/univision09242014/univision09242014 playpath=univision09242014 pageUrl=http://www.boxlivetv.net/
+#EXTINF:-1,TDN DEPORTES
+rtmp://$OPT:rtmp-raw=rtmp://109.123.126.34/live playpath=tdnplanevip?id=74027 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1,DEPORTES
+rtmp://$OPT:rtmp-raw=rtmp://178.162.199.141/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDloboi
+#EXTINF:-1,TYC SPORTS
+rtmp://$OPT:rtmp-raw=rtmp://81.17.20.46/iguide playpath=grb13w517q07vos swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDloboi
+
+#EXTINF:-1,Super Sport 1 (Albania)
+http://149.255.39.122/aasd/8733/index.m3u8
+#EXTINF:-1,Super Sport 2 (Albania)
+http://149.255.39.122/aasd/8734/index.m3u8
+#EXTINF:-1,Super Sport 3 (Albania)
+http://149.255.39.122/aasd/8741/index.m3u8
+#EXTINF:-1,Super Sport 4 (Albania)
+http://149.255.39.122/aasd/8743/index.m3u8
+
+#EXTINF:-1,Pro Sports 1 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+#EXTINF:-1,Pro Sports 2 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+#EXTINF:-1,Pro Sports 3 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+#EXTINF:-1,Pro Sports 4 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+
+#EXTINF:-1,ESPN
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 ESPN2
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,ESPN 1
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=410&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 ESPN 3
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,ESPN 2
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=410&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,ESPN 3
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=394&lan=2&rows=40&f=.m3u8
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TYC SPORTS
-http://usa.fankytv.com/live/tyc.stream/playlist.m3u8
-#EXTINF:-1 LATINOS",XD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=228&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 Warner
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=94&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 UNIVERSAL
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=97&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TRU TV
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=115&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TNT
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TLC
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=254&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TIIN
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=236&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TELENOVELAS
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=186&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TCM
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=382&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TBS
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=177&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 SyFy
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=142&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 STV HD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=78&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 STUDIO UNIVERSAL
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=374&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 SPACE
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=333&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 Sony
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=89&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 NICK
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=217&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 NATIONAL GEOGRAPHIC
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=270&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 NAT.GEO WILD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=250&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 MOVIECITY PREMIER
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 MOVIECITY HOLLYWOOD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=305&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 MOVIECITY CLASICO
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=346&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 MOVIECITY ACTION
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 MGM
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 KIDS
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=195&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DISNEY JUNIORS
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=204&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 INVESTIGATION DISCOVERY
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=154&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 INFINITO
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=157&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 ID
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=153&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 HOME & HEALT
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=266&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 HMX
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=472&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 HISTORY
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=246&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 GOURMET
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=162&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 GOLDEN
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 GLITZ
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=167&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 GALAVISION
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=43&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 FX-HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=101&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 FOX
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 FILM ZONE
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 EDGE
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=361&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DISTRITO COMEDIA
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=173&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DISNEY XD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=35&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DISNEY JR
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=212&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DISNEY
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DISCOVERY THEATER
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=242&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DISCOVEREY TURBO
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=286&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DISCOVERY SCIENCE
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=278&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DISCOVERY CIVILIZATION
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=282&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DISCOVERY CHANNEL
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=258&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 DE PELICULA
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=325&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 COMEDY CENTRAL
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=117&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 CINEMAX
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 CINECANAL
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=350&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 CARTOON
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 Azteca 7
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=42&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 CANAL 13 HD 1080
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=18&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 BOOMERANG
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 BLOMBERG
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=461&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 BIO
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=274&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 BEBIES
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=200&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 AXN
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 VMAS TV
-http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
-#EXTINF:-1 VIO
-http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
-#EXTINF:-1 Vh1 HD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=48&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 Unicable
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=64&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TV Agro
-http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u8
-#EXTINF:-1 TRU TV HD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=63&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 TRENDY
-http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
-#EXTINF:-1 Telehit
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=47&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 telecafe
-http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8
-#EXTINF:-1 Ritmoson
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=46&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 Proyecto 40
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=39&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 NOVEDADES TV
-http://uneapple-i.akamaihd.net/hls/live/205011/grupoune_st2@205011/st2_index.m3u8
-#EXTINF:-1 Life Design HD
-http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_index.m3u8
-#EXTINF:-1 Sat. 40
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=69&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 HD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=44&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 H13N
-http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
-#EXTINF:-1 EL TIEMPO
-http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
-#EXTINF:-1 DOCU
-http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
-#EXTINF:-1 Cosmovision
-http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m3u8
-#EXTINF:-1 Cadena 3
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=40&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 BBC
-http://uneapple-i.akamaihd.net/hls/live/205014/grupoune_st5@205014/st5_index.m3u8
-#EXTINF:-1 Bandamax
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=49&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 Azteca 13
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=43&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 ANIMAL PLANET
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 MIMUSICA
-http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
-#EXTINF:-1 ME SUENA
-http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
-#EXTINF:-1 HD1
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/136.ch
+#EXTINF:-1,Fox Sport 1
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,Fox Sport 2
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8
 
-BeINsportHD2
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/137.ch
-
-BeINsportHD3
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/138.ch
-
-BeINsportHD4
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/139.ch
-
-BeINsportHD5
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/140.ch
-
-BeINsportHD6
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/141.ch
-
-BeINsportHD7
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/142.ch
-
-BeINsportHD8
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/143.ch
-
-BeINsportHD9
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/144.ch
-
-BeINsportHD10
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/145.ch
-
-BeINsportHD11
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/146.ch
-
-BeINsportHD12
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/147.ch
-
-BeINsportHD13
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/148.ch
-
-BeINsportHD14
-http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/149.ch
+#EXTINF:-1,EUROSPORT BRITISH
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live/eurs1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,EUROSPORT BRITISH
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.84/live playpath=eurooo1 pageUrl=http://www.dcast.tv/
+#EXTINF:-1,EUROSPORT BRITISH
+rtmp://$OPT:rtmp-raw=rtmp://195.154.250.71:80/liverepeater playpath=166509 pageUrl=http://goodcast.me/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,EUROSPORT2 BRITISH
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live/eurs2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,EUROSPORT2 BRITISH
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.84/live playpath=euro2ana pageUrl=http://www.dcast.tv/
+#EXTINF:-1,EUROSPORT GERMANY
+rtmp://$OPT:rtmp-raw=rtmp://195.154.250.71:80/liverepeater playpath=166504 pageUrl=http://goodcast.me/ token=Fo5_n0w?U.rA6l3-70w47ch
