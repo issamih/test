@@ -1,5 +1,8 @@
 #EXTINF:-1, AloulaHD
 http://38.99.146.36:7777/AlAoulaEurope_HD/AlAoulaEurope_HD.m3u8
+#EXTINF:-1,
+http://83.139.104.101/Content/HLS/Live/Channel(Sk_3)/Stream(03)/index.m3u8
+
 
 #EXTINF:-1, HD1
 http://iptv.for-our.info/iptv-panal/starlive_v5/49OpMhBfD2/136.ch
