@@ -1,5 +1,4 @@
-#EXTINF:
-‪#‎EXTINF‬:-1,sky sport1 HD
+#EXTINF:O,sky sport1 HD
 rtmp://178.239.53.132/live/skysp1hd
 #EXTINF:-1,sky sport2 HD
 rtmp://178.239.53.132/live/skysp2hd
@@ -39,3 +38,10 @@ rtmp://178.239.53.132/live/ote3hd
 rtmp://178.239.53.132/live/ote4hd
 #EXTINF:O,OTE SPORT 5 HD
 rtmp://178.239.53.132/live/ote5hd
+
+#EXTINF:O,SUPER SPORT 1
+rtmp://arlind.ontv.al:1935/live/ss1
+#EXTINF:O,SUPER SPORT 2
+rtmp://arlind.ontv.al:1935/live/ss2
+#EXTINF:O,SUPER SPORT 3
+rtmp://arlind.ontv.al:1935/live/ss3
