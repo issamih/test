@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:-1,BEIN ? (fr 1)
+http://5.39.70.216/live/10USD$$/sports@fontsbay.com/31.ts?12345678
+#EXTINF:-1,BEIN ? (fr 2)
+http://5.39.70.216/live/10USD$$/sports@fontsbay.com/36.ts?12345678
+#EXTINF:-1,BEIN ? (fr 3)
+http://5.39.70.216/live/10USD$$/sports@fontsbay.com/32.ts?12345678
+#EXTINF:-1,BEIN ? (ESP)
+rtmp://cdn.cast-tv.us/iptv/beinsports1.stream
+#EXTINF:-1,ART Aflam 1
+rtmp://web.iptv-planet.com:1937/live2/artaflam1
+#EXTINF:-1,ART Aflam 2
+rtmp://162.212.176.107:1935/art_aflam_2?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIw.MTUtMDEtMjUtMDAtNDUtMTc=/globaltv-art_aflam_2.stream
+#EXTINF:-1,Fann
+http://185.27.237.105:8082/TV0117
+#EXTINF:-1,mosalsalat 1
+http://185.27.237.105:8082/TV0119
+#EXTINF:-1,mosalsalat 2
+http://185.27.237.105:8082/TV0121
+#EXTINF:-1,cinema 1
+http://185.27.237.105:8082/TV0115
+#EXTINF:-1,cinema 2
+http://185.27.237.105:8082/TV0116
+#EXTINF:-1,yahalla chabab 
+http://185.27.237.105:8082/TV0052
+#EXTINF:-1,ya halla 
+http://185.27.237.105:8082/TV0064
+#EXTINF:-1,safwa
+http://185.27.237.105:8082/TV0099
+#EXTINF:-1,OMN COMEDY +2
+http://185.27.237.105:8082/TV0021
+#EXTINF:-1,OMN movie drama
+http://185.27.237.105:8082/TV0022
+#EXTINF:-1,sport1 hd
+http://185.27.237.105:8082/TV0104
+#EXTINF:-1,OMN movie hd
+http://185.27.237.105:8082/TV0023
+#EXTINF:-1,OMN movie hd
+http://185.27.237.105:8082/TV0024
+#EXTINF:-1,OMN movie hd
+http://185.27.237.105:8082/TV0025
+#EXTINF:-1,mgm
+http://185.27.237.105:8082/TV0050
+#EXTINF:-1,star movie hd
+http://185.27.237.105:8082/TV0051
+#EXTINF:-1,omn movie
+http://185.27.237.105:8082/TV0053
+#EXTINF:-1,omn movie hd +2
+http://185.27.237.105:8082/TV0054
+#EXTINF:-1,omn movie hd
+http://185.27.237.105:8082/TV0055
+#EXTINF:-1,omn movie hd
+http://185.27.237.105:8082/TV0056
+#EXTINF:-1,discovery channel
+http://185.27.237.105:8082/TV0059
+#EXTINF:-1,OMN movie
+http://185.27.237.105:8082/TV0060
+#EXTINF:-1,OMN +2
+http://185.27.237.105:8082/TV0062
+#EXTINF:-1,OMN FIRST HD
+http://185.27.237.105:8082/TV0063
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0065
+#EXTINF:-1,OMN movie drama +2
+http://185.27.237.105:8082/TV0075
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0077
+#EXTINF:-1,tcm
+http://185.27.237.105:8082/TV0082
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0083
+#EXTINF:-1,OMN first more
+http://185.27.237.105:8082/TV0084
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0086
+#EXTINF:-1,fashion tv
+http://185.27.237.105:8082/TV0088
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0089
+discovery science hd
+http://185.27.237.105:8082/TV0090
+#EXTINF:-1,discovery id
+http://185.27.237.105:8082/TV0092
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0093
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0091
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0104
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0103
+#EXTINF:-1,diseny
+http://185.27.237.105:8082/TV0110
+#EXTINF:-1,MBC 1
+http://216.66.42.84:7777/MBC1_HD/MBC1_High.m3u8?user=HTTP_Proxy_GLARAB-STB37_242970&session=db30c7a34e3ced921181bcecded07b9fa0f2c6f373135e4dca5a096572febcdaa299017ce29bf1aa&hlsid=HLS_289076
+#EXTINF:-1,MBC 1
+http://live308.edge.filmon.com/live/367.low.stream/chunklist_w2026804540.m3u8?id=0ad5aac39bb13fbe25aad4822ff4e8b6978c51cace86e0a0886e492cc81dad116a5e6fd1f82304a118207ed131269137205cfc07cb1af5e855375f6958a792c3d8c25dad2bb9ba1a553d67da48589f033d2dfa70e2fb29f7ea4ec80c2b199082d3062300644c77866bf2b2e19215db9d6aad9a77e370803e7662c521cb4a5ca7bb48100c02233a1350b68c17ebf81014387b9f7cd52f07ba
+#EXTINF:-1,MBC 2
+rtmp://63.237.48.8/live//MBC2
+#EXTINF:-1,MBC 3
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
+#EXTINF:-1,MBC 3
+rtmp://web.iptv-planet.com:1937/live2/Hi_mbc3
+#EXTINF:-1,MBC 4
+http://216.66.42.84:7777/MBC4_HD/MBC4_High.m3u8?user=HTTP_Proxy_GLARAB-STB37_242956&session=bdbb69a90dfdcd2cba86fedfd3db5000e180ce36333e990d2fb4b1985d0d6d3ea299017ce29bf1aa&hlsid=HLS_289062
+#EXTINF:-1,MBC 4
+rtmp://web.iptv-planet.com:1937/live2/Hi_mbc4
+#EXTINF:-1,MBC 4
+rtmp://63.237.48.8:1935/live/MBC_4 
+#EXTINF:-1,MBC Drama
+http://216.66.42.84:7777/MBCDrama_HD/MBCDrama_High.m3u8?user=HTTP_Proxy_GLARAB-STB37_243004&session=487636691a9e52a1f259ce34a2441ae1736b793655a29fbc048ac00edacf0c33a299017ce29bf1aa&hlsid=HLS_289111
+#EXTINF:-1,MBC_BOLLYWOOD
+rtmp://63.237.48.3/live//MBC_BOLLYWOOD
+#EXTINF:-1,mbc_max
+rtmp://63.237.48.23/live//MBC_MAX 
+#EXTINF:-1,mbc_max
+rtmp://web.iptv-planet.com:1937/live2/Hi_mbcmax
+#EXTINF:-1,MBC_ACTION 
+rtmp://63.237.48.3/live//MBC_ACTION
+#EXTINF:-1,MBC_ACTION
+rtmp://web.iptv-planet.com:1937/live2/Hi_mbcaction 
+#EXTINF:-1,MBC Masr 1
+http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,MBC Masr 2
+http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8
+#EXTINF:-1,Al Nahar TV
+rtmp://50.7.180.18/elnahar_tv/nahar_tv.stream	
+#EXTINF:-1,Al Nahar Youm
+rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream 
+#EXTINF:-1,Al-Nahar Drama	
+rtmp://50.7.180.18/elnahar_tv/nahar_drama.stream
+#EXTINF:-1,Al Nahar Sport	
+rtmp://50.7.180.18:1935/elnahar_tv/nahar_sport.stream
+#EXTINF:-1,Moga_comedy
+rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
+#EXTINF:-1,Ifilm
+rtmp://mtv.fms-01.visionip.tv/live//mtv-ifilm-ifilm_arabic-live-4x3-SD 
+#EXTINF:-1,Dream 1
+rtmp://162.212.176.107/dream_1?v=3160872048/globaltv-dream_1.stream
+#EXTINF:-1,melody_aflam
+rtmpt://162.212.176.107:1935/melody?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUtMDEtMjUtMDAtNDUtMTc=/globaltv-melody.stream 
+#EXTINF:-1,Arabica Music
+http://37.48.80.48:1935/arabicalive/arabicatv/chunklist_w525000.m3u8
+#EXTINF:-1,agyal
+http://46.43.64.162:1935/ajyal/livestreamm/chunklist_w1304556537.m3u8
+#EXTINF:-1,fox_movies
+http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
+#EXTINF:-1,cairo_cinema
+rtmp://162.212.176.107/cairo_cinema//globaltv-cairo_cinema.stream
+#EXTINF:-1,cairo_drama
+rtmp://162.212.176.107/cairo_drama//globaltv-cairo_drama.stream 
+#EXTINF:-1,Premium Cinema HD
+rtmp://37.187.140.144:22500/live/csxpremiumcinemahd
+#EXTINF:-1,Premium Comedy
+rtmp://37.187.140.144:22500/live/csxpremiumcomedy
+#EXTINF:-1,Premium Emotion
+rtmp://37.187.140.144:22500/live/csxpremiumemotion
+#EXTINF:-1,Premium Energy
+rtmp://37.187.140.144:22500/live/csxpremiumenergy
+#EXTINF:-1,Premium Studio Universal
+rtmp://37.187.140.144:22500/live/csxpremiumstudiouni
+#EXTINF:-1,Premium Crime
+rtmp://37.187.140.144:22500/live/csxpremiumcrime
+#EXTINF:-1,Premium Joy
+rtmp://37.187.140.144:22500/live/csxpremiumjoy
+#EXTINF:-1,Premium Mya
+rtmp://37.187.140.144:22500/live/csxpremiummya
+#EXTINF:-1,Premium Action
+rtmp://37.187.140.144:22500/live/csxpremiumaction
+#EXTINF:-1,Premium Calcio HD
+rtmp://37.187.140.144:22500/live/csxpremiumcalcio1hd
+#EXTINF:-1,Premium Calcio 2 HD
+rtmp://37.187.140.144:22500/live/csxpremiumcalcio2hd
+#EXTINF:-1,Premium Calcio
+rtmp://37.187.140.144:22500/live/csxpremiumcalcio
+#EXTINF:-1,Premium Calcio 1
+rtmp://37.187.140.144:22500/live/csxpremiumcalcio1
+#EXTINF:-1,Premium Calcio 2
+rtmp://37.187.140.144:22500/live/csxpremiumcalcio2
+#EXTINF:-1,Premium Calcio 3
+rtmp://37.187.140.144:22500/live/csxpremiumcalcio3
+#EXTINF:-1,Premium Calcio 4
+rtmp://37.187.140.144:22500/live/csxpremiumcalcio4
+#EXTINF:-1,Premium Calcio 5
+rtmp://37.187.140.144:22500/live/csxpremiumcalcio5
+#EXTINF:-1,Premium Calcio 6
+rtmp://37.187.140.144:22500/live/csxpremiumcalcio6
+#EXTINF:-1,Premium Calcio 7
+rtmp://37.187.140.144:22500/live/csxpremiumcalcio7
+#EXTINF:-1,Premium Fox Sport
+rtmp://37.187.140.144:22500/live/csxfoxsports
+#EXTINF:-1,Premium Eurosport 1
+rtmp://37.187.140.144:22500/live/csxEurosport1
+#EXTINF:-1,Premium Eurosport 2
+rtmp://37.187.140.144:22500/live/csxEurosport2
+#EXTINF:-1,Premium Cartoon Network
+rtmp://37.187.140.144:22500/live/csxpremiumcartoon
+#EXTINF:-1,Premium Disney Junior
+rtmp://37.187.140.144:22500/live/csxdjr
+#EXTINF:-1,Premium Disney Channel 1
+rtmp://37.187.140.144:22500/live/csxdch+1
+#EXTINF:-1,Premium Discovery World
+rtmp://37.187.140.144:22500/live/csxpremiumdiscovery
+#EXTINF:-1,Premium BBC Knowledge
+rtmp://37.187.140.144:22500/live/csxpremiumbbc
+#EXTINF:-1,Sky Sport F1
+rtmp://37.187.140.144:22500/live/csxskysport1hd
+#EXTINF:-1,Sky National Geographic HD
+rtmp://37.187.140.144:22500/live/csxnatgeohd
+#EXTINF:-1,Sky Nat Geo People HD
+rtmp://37.187.140.144:22500/live/csxpeaplehd
+#EXTINF:-1,Sky Nat Geo Wild HD
+rtmp://37.187.140.144:22500/live/csxnatgeowildhd
+#EXTINF:-1,Sky Discovery Channel
+rtmp://37.187.140.144:22500/live/csxdiscoverych
+#EXTINF:-1,Sky Focus
+rtmp://37.187.140.144:22500/live/csxFocus
+#EXTINF:-1,Sky Disney XD
+rtmp://37.187.140.144:22500/live/csxdisneyxd
+#EXTINF:-1,Tele Ticino
+rtmp://37.187.140.144:22500/live/csxteleticino
+#EXTINF:-1, SKY SPORTS 1 HD
+rtmp://167.114.117.208/live/sky1v
+#EXTINF:-1, SKY SPORTS 2 HD
+rtmp://167.114.117.208/live/sky2v
+#EXTINF:-1, SKY SPORTS3 HD
+rtmp://167.114.117.208/live/sky3v
+#EXTINF:-1, SKY SPORTS 4 HD
+rtmp://167.114.117.208/live/sky4v
+#EXTINF:-1, SKY SPORTS 5 HD
+rtmp://167.114.117.208/live/sky5v
+#EXTINF:-1, BT SPORTS 1 HD
+rtmp://167.114.117.208/live/bt1v
+#EXTINF:-1, BT SPORTS 2 HD
+rtmp://167.114.117.208/live/bt2v
+#EXTINF:-1, SETANTA IRELAND
+rtmp://167.114.117.208/live/sentav
+#EXTINF:-1, RACING UK
+rtmp://167.114.117.208/live/racingukv
+#EXTINF:-1, BOX NATION HD
+rtmp://167.114.117.208/live/skynationv
+#EXTINF:-1, SKY NEWS HD
+rtmp://167.114.117.208/live/skynewsv
+#EXTINF:-1,Sport
+http://185.38.12.20:8088/sport/
+#EXTINF:-1,Eurosport 1
+http://185.38.12.20:8088/eurosport/
+#EXTINF:-1,Eurosport 2
+http://185.38.12.20:8088/eurosport2/
