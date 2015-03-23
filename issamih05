@@ -1,4 +1,10 @@
 #EXTM3U 
 #EXTINF:0,
 http://edge20.magictvbox.com/live/2m/index.m3u8
+http://edge20.magictvbox.com/live/sada_el_balad/index.m3u8
+http://edge22.magictvbox.com/live/sada_el_balad_drama/index.m3u8
+http://edge20.magictvbox.com/live/sada_el_balad_plus/index.m3u8
+http://edge23.magictvbox.com/live/sada_el_balad_drama_plus/index.m3u8
+
+
 
