@@ -24,3 +24,19 @@ http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open
 http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
 #EXTINF:0, Tva
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1, GloBal News Toronto
+http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV
+#EXTINF:-1, CP24
+https://fast-fortress-4864.herokuapp.com/ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8
+#EXTINF:-1, CTV News
+https://sleepy-garden-1910.herokuapp.com/ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen8.m3u8
+#EXTINF:-1, Cinemax
+https://sleepy-garden-1910.herokuapp.com/113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+#EXTINF:-1, 24/7 Movies
+https://sleepy-garden-1910.herokuapp.com/167.114.65.88/hls/mv.m3u8
+#EXTINF:-1,HBO Home Box Office
+https://sleepy-garden-1910.herokuapp.com/113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1,Fox Movies HD
+https://fast-fortress-4864.herokuapp.com/boiling-tor-3475.herokuapp.com/TPHLSWeb/M3U8LiveFile?format=2&amp;profile=305&amp;lan=2&amp;rows=40&amp;f=.m3u8
+#EXTINF:-1,AXN HD
+https://fast-fortress-4864.herokuapp.com/boiling-tor-3475.herokuapp.com/TPHLSWeb/M3U8LiveFile?format=2&amp;profile=110&amp;lan=2&amp;rows=40&amp;f=.m3u8
