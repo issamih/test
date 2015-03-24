@@ -22,3 +22,5 @@ http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open
 
 #EXTINF:0,RDSi
 http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
+#EXTINF:0, Tva
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
