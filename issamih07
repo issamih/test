@@ -57,6 +57,34 @@ http://93.184.221.133/00573D/1210/1210-0.m3u8
 http://93.184.221.133/00573D/1211/1211-0.m3u8
 #EXTINF:0,Sky Sports News
 http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:0,*****************
+#EXTINF:-1,bein 1f
+http://91.109.20.227:8080/TV4016?gtoken
+#EXTINF:-1,bein 2f
+http://91.109.20.227:8080/TV4017?gtoken
+#EXTINF:-1,bein 3f
+http://91.109.20.227:8080/TV4018?gtoken
+#EXTINF:0,bein 1
+http://91.109.20.227:8080/TV4001?gtoken
+#EXTINF:-1,bein 2
+http://91.109.20.227:8080/TV4002?gtoken
+#EXTINF:-1,bein 3
+http://91.109.20.227:8080/TV4003?gtoken
+#EXTINF:-1,bein 4
+http://91.109.20.227:8080/TV4004?gtoken
+#EXTINF:-1,bein 5
+http://91.109.20.227:8080/TV4005?gtoken
+#EXTINF:-1,bein 6
+http://91.109.20.227:8080/TV4006?gtoken
+#EXTINF:-1,bein 7
+http://91.109.20.227:8080/TV4007?gtoken
+#EXTINF:-1,bein 8
+http://91.109.20.227:8080/TV4008?gtoken
+#EXTINF:-1,bein 9
+http://91.109.20.227:8080/TV4009?gtoken
+#EXTINF:-1,bein 10
+http://91.109.20.227:8080/TV4010?gtoken
+
 
 #EXTINF:-1, GloBal News Toronto
 http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV
