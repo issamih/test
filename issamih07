@@ -24,24 +24,26 @@ http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open
 http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
 #EXTINF:0, Tva
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,Sports Net 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+ 
+#EXTINF:-1,Arena Sport 1 HD
+http://128.199.38.73:8081/live/Arena1HD/playlist.m3u8
 
+#EXTINF:-1,Arena Sport 2 HD
+http://128.199.38.73:8081/live/Arena2HD/playlist.m3u8
 
-#EXTINF:0,sky sport1
-http://198.27.94.105/hls/de1d863f8ed9773d37ba8bb68c8d974b.m3u8
-#EXTINF:0,sky sport2
-http://198.27.94.105/hls/01eff0eff692f72c64da53fe5982661e.m3u8
-#EXTINF:0,sky sport3
-http://198.27.94.105/hls/9ec99b5fb4d723e3b6e1bdcb656c12e0.m3u8
-#EXTINF:0,sky sport4
-http://198.27.94.105/hls/4b97c7ef991b691682a709d317989e60.m3u8
-#EXTINF:0,sky sport5
-http://198.27.94.105/hls/f69daf33ccb4c9c1cd6703c459d517b3.m3u8
-#EXTINF:0,sky sport news
-http://198.27.94.105/hls/73e558ef61628abe8c8067d38f9d9732.m3u8
-#EXTINF:0,bt sport 1
-http://198.27.94.105/hls/0cd9d11869f7896fcef7aa02ce2573c1.m3u8
-#EXTINF:0,bt sport 2
-http://198.27.94.105/hls/1ebdaebd20e6916f12544e6cee84128c.m3u8
+#EXTINF:-1,Arena Sport 3 HD
+http://128.199.38.73:8081/live/Arena3HD/playlist.m3u8
+
+#EXTINF:-1,Arena Sport 4 HD
+http://128.199.38.73:8081/live/Arena4HD/playlist.m3u8
+
+#EXTINF:-1,Arenasport1
+http://62.112.54.4/hls/arena1.m3u8
+
+#EXTINF:-1,Arenasport2
+http://62.112.54.4/hls/arena2.m3u8 
 
 #EXTINF:0,BBC Sport
 http://93.184.221.133/00573D/1104/1104-0.m3u8
