@@ -24,6 +24,25 @@ http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open
 http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
 #EXTINF:0, Tva
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
+
+
+#EXTINF:0,sky sport1
+http://198.27.94.105/hls/de1d863f8ed9773d37ba8bb68c8d974b.m3u8
+#EXTINF:0,sky sport2
+http://198.27.94.105/hls/01eff0eff692f72c64da53fe5982661e.m3u8
+#EXTINF:0,sky sport3
+http://198.27.94.105/hls/9ec99b5fb4d723e3b6e1bdcb656c12e0.m3u8
+#EXTINF:0,sky sport4
+http://198.27.94.105/hls/4b97c7ef991b691682a709d317989e60.m3u8
+#EXTINF:0,sky sport5
+http://198.27.94.105/hls/f69daf33ccb4c9c1cd6703c459d517b3.m3u8
+#EXTINF:0,sky sport news
+http://198.27.94.105/hls/73e558ef61628abe8c8067d38f9d9732.m3u8
+#EXTINF:0,bt sport 1
+http://198.27.94.105/hls/0cd9d11869f7896fcef7aa02ce2573c1.m3u8
+#EXTINF:0,bt sport 2
+http://198.27.94.105/hls/1ebdaebd20e6916f12544e6cee84128c.m3u8
+
 #EXTINF:-1, GloBal News Toronto
 http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV
 #EXTINF:-1, CP24
