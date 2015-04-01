@@ -58,7 +58,7 @@ http://93.184.221.133/00573D/1211/1211-0.m3u8
 #EXTINF:0,Sky Sports News
 http://93.184.221.133/00573D/183/183-0.m3u8
 #EXTINF:0,*****************
-***********
+http://***********
 #EXTINF:-1,bein 1f
 http://91.109.20.227:8080/TV4016?gtoken
 #EXTINF:-1,bein 2f
@@ -86,6 +86,29 @@ http://91.109.20.227:8080/TV4009?gtoken
 #EXTINF:-1,bein 10
 http://91.109.20.227:8080/TV4010?gtoken
 
+#EXTINF:-1, ESPN USA
+rtmp://31.220.0.206:1935/live/_definst_/espnxuk
+ 
+ 
+#EXTINF:-1, Eurosport  
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+ 
+#EXTINF:-1, Eurosport 2
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+ 
+ 
+#EXTINF: -1, Eurosport HD
+http://146.158.123.198:4022/udp/239.72.6.50:1234
+ 
+#EXTINF: -1, Eurosport 2 HD
+http://146.158.123.198:4022/udp/239.72.6.51:1234
+ 
+ 
+#EXTINF:-1,Fox Sport
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+ 
+#EXTINF:-1,Fox Sports 2
+rtmp://31.220.0.206:1935/live/_definst_/fox22x
 
 #EXTINF:-1, GloBal News Toronto
 http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV
