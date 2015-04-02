@@ -26,6 +26,37 @@ http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
 #EXTINF:-1,Sports Net 360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+ 
+#EXTINF:-1,Sky Sports 1 HD
+http://109.123.70.48/hls/channel1.m3u8?s=MBXrf
+ 
+#EXTINF:-1,Sky Sports 2 HD
+http://109.123.70.48/hls/channel2.m3u8?s=MBXrf
+ 
+#EXTINF:-1,Sky Sports 3 HD
+http://109.123.70.48/hls/channel3.m3u8?s=MBXrf
+ 
+#EXTINF:-1,Sky Sports 4 HD
+http://109.123.70.48/hls/channel4.m3u8?s=MBXrf
+ 
+#EXTINF:-1,Sky Sports News HD
+http://109.123.70.48/hls/channel5.m3u8?s=MBXrf
+ 
+#EXTINF:-1,BT Sport 1 HD
+http://109.123.70.48/hls/channel6.m3u8?s=MBXrf
+ 
+#EXTINF:-1,BT Sport 2 HD
+http://109.123.70.48/hls/channel7.m3u8?s=MBXrf
+ 
+#EXTINF:-1,Setanta Ireland HD
+http://109.123.70.48/hls/channel8.m3u8?s=MBXrf
+ 
+#EXTINF:-1,Box Nation HD
+http://109.123.70.48/hls/channel9.m3u8?s=MBXrf
+ 
+#EXTINF:-1,Racing UK HD
+http://109.123.70.48/hls/channel10.m3u8?s=MBXrf
  
 #EXTINF:-1,Arena Sport 1 HD
 http://128.199.38.73:8081/live/Arena1HD/playlist.m3u8
