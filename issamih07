@@ -26,8 +26,45 @@ http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
 #EXTINF:-1,Sports Net 360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+#EXTINF:-1,FOX SPORT
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
 #EXTINF:0,beIN Usa
 http://50.7.69.186:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
+
+#EXTINF:-1,ESPN HD
+http://142.4.216.60:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+ 
+#EXTINF:-1,ESPN2
+http://50.7.69.186:1935/edge/_definst_/5hd19kwxef5b59o/chunklist.m3u8?wowzasessionid=1420159722
+ #‎EXTINF‬:-1, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1, ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+
+#EXTINF:-1, ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+
+#EXTINF:-1, ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+
+#EXTINF:-1,ESPN3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?=1
+
+#EXTINF:-1,FOX SPORT HD.
+http://113.160.49.34/l…/origin03/foxhd.isml/foxhd-2096k.m3u8
+
+#EXTINF:-1, FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+
+#EXTINF:-1, FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+
+#EXTINF:-1, Fox Sports 2 Spain
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?=1
+
+
 
  
 #EXTINF:-1,Sky Sports 1 HD
@@ -92,6 +129,66 @@ http://93.184.221.133/00573D/1210/1210-0.m3u8
 http://93.184.221.133/00573D/1211/1211-0.m3u8
 #EXTINF:0,Sky Sports News
 http://93.184.221.133/00573D/183/183-0.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="bein.png" group-title="SPORTS", BeIN HD
+http://50.7.69.186:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
+ 
+#EXTINF:-1 tvg-name="British_Eurosport_HD" tvg-logo="" group-title="SPORTS", British EuroSports 1
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+ 
+#EXTINF:-1 tvg-name="British_Eurosport_2" tvg-logo="" group-title="SPORTS",British EuroSports 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="U.S.A",Sky Sports 1 HD
+http://50.7.69.186:1935/edge/_definst_/9ddlpiijjci12o9/chunklist.m3u8?wowzasessionid=1419915754 timeout=10
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="U.S.A",Sky Sports 2 HD
+http://50.7.69.186:1935/edge/_definst_/21ajqprn56aebp3/chunklist.m3u8?wowzasessionid=1419879754 timeout=10
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",Sports 1
+http://93.184.221.133/00573D/236/236-0.m3u8
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",ViaSat Golf HD
+http://93.184.221.133/00573D/911/911-0.m3u8
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",ViaSat Golf
+http://93.184.221.133/00573D/204/204-0.m3u8
+ 
+#EXTINF:-1 tvg-logo="SkyComedy.png" group-title="UK Live TV",  NBA
+rtmpe://167.114.65.139:1935/goLive playpath=ver4a447e92ec75e95e72b92a swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+ 
+#EXTINF:0,NFL Network HD
+http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830 timeout=10
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="U.S.A",Sky Sports 1 HD
+http://50.7.69.186:1935/edge/_definst_/9ddlpiijjci12o9/chunklist.m3u8?wowzasessionid=1419915754 timeout=10
+ 
+#EXTINF:-1 tvg-name="" tvg-lo5go="" group-title="U.S.A",Sky Sports 2 HD
+http://50.7.69.186:1935/edge/_definst_/21ajqprn56aebp3/chunklist.m3u8?wowzasessionid=1419879754 timeout=10
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="U.S.A",Sky Sports 3 HD
+http://50.7.69.186:1935/edge/_definst_/88bxjrfjy3muxo1/chunklist.m3u8?wowzasessionid=1426900072 timeout=10
+ 
+#EXTINF:0,SKY SPORTS3 HD
+rtmp://167.114.117.208/live/sky3v
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="U.S.A",Sky Sports 3
+http://50.7.69.186:1935/edge/_definst_/dnrrzm4d8u36qxq/chunklist.m3u8?wowzasessionid=1426899201 timeout=10
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="U.S.A",Sky Sports 4
+http://50.7.69.186:1935/edge/_definst_/sjnxqxvxqiczkbn/chunklist.m3u8?wowzasessionid=1426900322 timeout=10
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="U.S.A",Sky Sports 5
+http://50.7.69.186:1935/edge/_definst_/u8wfz71kltdyso3/chunklist.m3u8?wowzasessionid=1426899204 timeout=10
+ 
+#EXTINF:-1, FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1, FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+ 
+
+
 #EXTINF:0,*****************
 http://***********
 #EXTINF:-1,bein 1f
@@ -120,6 +217,37 @@ http://91.109.20.227:8080/TV4008?gtoken
 http://91.109.20.227:8080/TV4009?gtoken
 #EXTINF:-1,bein 10
 http://91.109.20.227:8080/TV4010?gtoken
+#‎EXTINF‬:0, beIN 1 s2
+http://91.109.20.227:8080/TV0801
+#EXTINF:0, beIN 2 s2
+http://91.109.20.227:8080/TV0802
+#EXTINF:0, beIN 3 s2
+http://91.109.20.227:8080/TV0803
+#EXTINF:0, beIN 4 s2
+http://91.109.20.227:8080/TV0804
+#EXTINF:0, beIN 5 s2
+http://91.109.20.227:8080/TV0805
+#EXTINF:0, beIN 6 s2
+http://91.109.20.227:8080/TV4006
+#EXTINF:0, beIN 7s2
+http://91.109.20.227:8080/TV0807
+#EXTINF:0, beIN 8s2
+http://91.109.20.227:8080/TV0808
+#EXTINF:0, beIN 9s2
+http://91.109.20.227:8080/TV0809
+#EXTINF:0,BEIN SPORTS 1 HD
+http://2co2.vp9.tv/chn/bin01/v.m3u8
+#EXTINF:0,BEIN SPORTS 2 HD
+http://2co2.vp9.tv/chn/bin02/v.m3u8
+#EXTINF:0,BEIN SPORTS 3 HD
+http://2co2.vp9.tv/chn/bin03/v.m3u8
+#EXTINF:0,BEIN SPORTS 4 HD
+http://2co2.vp9.tv/chn/bin04/v.m3u8
+#EXTINF:0,FOX1
+http://2co2.vp9.tv/chn/fox1/v.m3u8
+#EXTINF:0,FOX2
+http://2co2.vp9.tv/chn/fox2/v.m3u8
+
 
 #EXTINF:-1, ESPN USA
 rtmp://31.220.0.206:1935/live/_definst_/espnxuk
