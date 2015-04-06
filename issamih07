@@ -26,6 +26,8 @@ http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
 #EXTINF:-1,Sports Net 360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0,beIN Usa
+http://50.7.69.186:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
 
  
 #EXTINF:-1,Sky Sports 1 HD
