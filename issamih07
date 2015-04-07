@@ -302,3 +302,23 @@ http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-b.m3u8
+
+avril 2014
+# EXTINF: 0 , Eurosport
+http://178.165.45.203:4022/udp/239.0.0.211:1234
+# EXTINF: 0 , EuroSport 2
+http://178.165.45.203:4022/udp/239.0.0.212:1234
+# EXTINF: 0 , 1 Sport
+http://178.165.45.203:4022/udp/239.0.0.217:1234
+# EXTINF: 0 , Extreme
+http://178.165.45.203:4022/udp/239.0.0.209:1234
+# EXTINF: 0 , 1 Football
+http://178.165.45.203:4022/udp/239.0.0.214:1234
+# EXTINF: 0 , Football 2
+http://178.165.45.203:4022/udp/239.0.0.215:1234
+# EXTINF: 0 , Viasat Sport
+http://178.165.45.203:4022/udp/239.0.0.216:1234
+# EXTINF: 0 , XSport
+http://178.165.45.203:4022/udp/239.0.0.218:1234
+# EXTINF: 0 , Eurosport News
+http://178.165.45.203:4022/udp/239.0.0.219:1234
