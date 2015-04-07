@@ -1,0 +1,262 @@
+ # EXTM3U
+# EXTINF: 0 , Simon
+http://178.165.45.203:4022/udp/239.0.0.59:1234
+# EXTINF: 0 , Favorite
+http://178.165.45.203:4022/udp/239.0.0.60:1234
+# EXTINF: 0 , S-TET
+http://178.165.45.203:4022/udp/239.0.0.58:1234
+# EXTINF: 0 , handicap
+http://178.165.45.203:4022/udp/239.0.0.56:1234
+# EXTINF: 0 , ODTRK Kharkov
+http://178.165.45.203:4022/udp/239.0.0.20:1234
+# EXTINF :0,7- Channel
+http://178.165.45.203:4022/udp/239.0.0.61:1234
+# EXTINF: 0,1 +1
+http://178.165.45.203:4022/udp/239.0.0.1:1234
+# EXTINF: 0,2 +2
+http://178.165.45.203:4022/udp/239.0.0.27:1234
+# EXTINF: 0 , Inter
+http://178.165.45.203:4022/udp/239.0.0.55:1234
+# EXTINF: 0 , First National
+http://178.165.45.203:4022/udp/239.0.0.57:1234
+# EXTINF: 0 , ICTV
+http://178.165.45.203:4022/udp/239.0.0.11:1234
+# EXTINF: 0,5 channel
+http://178.165.45.203:4022/udp/239.0.0.44:1234
+# EXTINF: 0 , New
+http://178.165.45.203:4022/udp/239.0.0.15:1234
+# EXTINF: 0 , STB
+http://178.165.45.203:4022/udp/239.0.0.9:1234
+# EXTINF: 0 , TRK Ukraina
+http://178.165.45.203:4022/udp/239.0.0.16:1234
+# EXTINF: 0 , Plus Plus
+http://178.165.45.203:4022/udp/239.0.0.19:1234
+# EXTINF: 0 , Tonis
+http://178.165.45.203:4022/udp/239.0.0.40:1234
+# EXTINF: 0 , Q-TV
+http://178.165.45.203:4022/udp/239.0.0.153:1234
+# EXTINF: 0 , NTN
+http://178.165.45.203:4022/udp/239.0.0.31:1234
+# EXTINF: 0 , TET
+http://178.165.45.203:4022/udp/239.0.0.42:1234
+# EXTINF: 0 , K1
+http://178.165.45.203:4022/udp/239.0.0.3:1234
+# EXTINF: 0 , K2
+http://178.165.45.203:4022/udp/239.0.0.4:1234
+# EXTINF: 0 , Mega
+http://178.165.45.203:4022/udp/239.0.0.29:1234
+# EXTINF: 0 , GLASS
+http://178.165.45.203:4022/udp/239.0.0.45:1234
+# EXTINF: 0 , CMT
+http://178.165.45.203:4022/udp/239.0.0.43:1234
+# EXTINF: 0 , Gamma
+http://178.165.45.203:4022/udp/239.0.0.28:1234
+# EXTINF: 0 , PogodaTV
+http://178.165.45.203:4022/udp/239.0.0.25:1234
+# EXTINF: 0 , Gumor TB / Babay
+http://178.165.45.203:4022/udp/239.0.0.145:1234
+# EXTINF: 0 , Shopping TV
+http://178.165.45.203:4022/udp/239.0.0.23:1234
+# EXTINF: 0 , Tonis HD
+http://178.165.45.203:4022/udp/239.0.0.2:1234
+# EXTINF: 0 , Live TV
+http://178.165.45.203:4022/udp/239.0.0.170:1234
+# EXTINF: 0 , UFO TV
+http://178.165.45.203:4022/udp/239.0.0.12:1234
+# EXTINF: 0 , ORT International
+http://178.165.45.203:4022/udp/239.0.0.128:1234
+# EXTINF: 0 , RTR Planeta
+http://178.165.45.203:4022/udp/239.0.0.142:1234
+# EXTINF: 0 , NTV Mir
+http://178.165.45.203:4022/udp/239.0.0.152:1234
+# EXTINF: 0 , Telecafe
+http://178.165.45.203:4022/udp/239.0.0.166:1234
+# EXTINF: 0 , RTVi
+http://178.165.45.203:4022/udp/239.0.0.173:1234
+# EXTINF: 0 , RBC TV
+http://178.165.45.203:4022/udp/239.0.0.178:1234
+# EXTINF: 0 , TVCi
+http://178.165.45.203:4022/udp/239.0.0.232:1234
+# EXTINF: 0 , REN-TV
+http://178.165.45.203:4022/udp/239.0.0.181:1234
+# EXTINF: 0 , Euronews
+http://178.165.45.203:4022/udp/239.0.0.34:1234
+# EXTINF: 0 , First Business
+http://178.165.45.203:4022/udp/239.0.0.54:1234
+# EXTINF: 0 , Business
+http://178.165.45.203:4022/udp/239.0.0.32:1234
+# EXTINF: 0 , News One
+http://178.165.45.203:4022/udp/239.0.0.157:1234
+# EXTINF: 0 , News 24
+http://178.165.45.203:4022/udp/239.0.0.41:1234
+# EXTINF: 0 , UBR
+http://178.165.45.203:4022/udp/239.0.0.26:1234
+# EXTINF: 0 , Top Secret
+http://178.165.45.203:4022/udp/239.0.0.136:1234
+# EXTINF: 0 , BBC World
+http://178.165.45.203:4022/udp/239.0.0.165:1234
+# EXTINF: 0 , France 24
+http://178.165.45.203:4022/udp/239.0.0.33:1234
+# EXTINF: 0 , REAL ESTATE TV
+http://178.165.45.203:4022/udp/239.0.0.22:1234
+# EXTINF: 0 , Belarus TV
+http://178.165.45.203:4022/udp/239.0.0.36:1234
+# EXTINF: 0 , Bank TV
+http://178.165.45.203:4022/udp/239.0.0.10:1234
+# EXTINF: 0 , Discovery
+http://178.165.45.203:4022/udp/239.0.0.131:1234
+# EXTINF: 0 , Discovery Science
+http://178.165.45.203:4022/udp/239.0.0.130:1234
+# EXTINF: 0 , Discovery World
+http://178.165.45.203:4022/udp/239.0.0.129:1234
+# EXTINF: 0 , ID Investigation Discovery
+http://178.165.45.203:4022/udp/239.0.0.158:1234
+# EXTINF: 0 , TLC
+http://178.165.45.203:4022/udp/239.0.0.132:1234
+# EXTINF: 0 , Animal Planet
+http://178.165.45.203:4022/udp/239.0.0.133:1234
+# EXTINF: 0 , Travel Channel
+http://178.165.45.203:4022/udp/239.0.0.176:1234
+# EXTINF: 0 , Nat Geo Wild
+http://178.165.45.203:4022/udp/239.0.0.135:1234
+# EXTINF: 0 , National Geographic
+http://178.165.45.203:4022/udp/239.0.0.147:1234
+# EXTINF: 0 , My Planet
+http://178.165.45.203:4022/udp/239.0.0.163:1234
+# EXTINF: 0,24 TEXNO
+http://178.165.45.203:4022/udp/239.0.0.151:1234
+# EXTINF: 0 , CBS Reality
+http://178.165.45.203:4022/udp/239.0.0.134:1234
+# EXTINF: 0 , Zoopark
+http://178.165.45.203:4022/udp/239.0.0.150:1234
+# EXTINF: 0 , English Club
+http://178.165.45.203:4022/udp/239.0.0.149:1234
+# EXTINF: 0 , Fishing and Hunting
+http://178.165.45.203:4022/udp/239.0.0.210:1234
+# EXTINF: 0 , Healthy TV
+http://178.165.45.203:4022/udp/239.0.0.139:1234
+# EXTINF: 0 , Homesteads TV
+http://178.165.45.203:4022/udp/239.0.0.144:1234
+# EXTINF: 0 , Drive
+http://178.165.45.203:4022/udp/239.0.0.213:1234
+# EXTINF: 0 , First Automobile
+http://178.165.45.203:4022/udp/239.0.0.208:1234
+# EXTINF: 0 , CHP.INFO
+http://178.165.45.203:4022/udp/239.0.0.175:1234
+# EXTINF: 0 , Retro
+http://178.165.45.203:4022/udp/239.0.0.143:1234
+# EXTINF: 0 , Amusement Park
+http://178.165.45.203:4022/udp/239.0.0.174:1234
+# EXTINF: 0 , Viasat History
+http://178.165.45.203:4022/udp/239.0.0.168:1234
+# EXTINF: 0 , TV1000 Nature East
+http://178.165.45.203:4022/udp/239.0.0.171:1234
+# EXTINF: 0 , Viasat Explorer
+http://178.165.45.203:4022/udp/239.0.0.169:1234
+# EXTINF: 0 , TIME
+http://178.165.45.203:4022/udp/239.0.0.164:1234
+# EXTINF: 0 , Maxxi-TV
+http://178.165.45.203:4022/udp/239.0.0.148:1234
+# EXTINF: 0 , DobroTV
+http://178.165.45.203:4022/udp/239.0.0.177:1234
+# EXTINF: 0 , Science 2.0
+http://178.165.45.203:4022/udp/239.0.0.155:1234
+# EXTINF: 0 , OCEAN-TV
+http://178.165.45.203:4022/udp/239.0.0.172:1234
+# EXTINF: 0 , Da Vinci Learning
+http://178.165.45.203:4022/udp/239.0.0.180:1234
+# EXTINF: 0 , Eco TV
+http://178.165.45.203:4022/udp/239.0.0.17:1234
+# EXTINF: 0 , Goldberrі
+http://178.165.45.203:4022/udp/239.0.0.21:1234
+# EXTINF: 0 , Eurosport
+http://178.165.45.203:4022/udp/239.0.0.211:1234
+# EXTINF: 0 , EuroSport 2
+http://178.165.45.203:4022/udp/239.0.0.212:1234
+# EXTINF: 0 , 1 Sport
+http://178.165.45.203:4022/udp/239.0.0.217:1234
+# EXTINF: 0 , Extreme
+http://178.165.45.203:4022/udp/239.0.0.209:1234
+# EXTINF: 0 , 1 Football
+http://178.165.45.203:4022/udp/239.0.0.214:1234
+# EXTINF: 0 , Football 2
+http://178.165.45.203:4022/udp/239.0.0.215:1234
+# EXTINF: 0 , Viasat Sport
+http://178.165.45.203:4022/udp/239.0.0.216:1234
+# EXTINF: 0 , XSport
+http://178.165.45.203:4022/udp/239.0.0.218:1234
+# EXTINF: 0 , Eurosport News
+http://178.165.45.203:4022/udp/239.0.0.219:1234
+# EXTINF: 0 , RU music
+http://178.165.45.203:4022/udp/239.0.0.156:1234
+# EXTINF: 0 , M1
+http://178.165.45.203:4022/udp/239.0.0.7:1234
+# EXTINF: 0 , M2
+http://178.165.45.203:4022/udp/239.0.0.8:1234
+# EXTINF: 0 , MTV- Ukraine
+http://178.165.45.203:4022/udp/239.0.0.6:1234
+# EXTINF: 0 , Music
+http://178.165.45.203:4022/udp/239.0.0.159:1234
+# EXTINF: 0 , O-TV
+http://178.165.45.203:4022/udp/239.0.0.5:1234
+# EXTINF: 0 , Mezzo
+http://178.165.45.203:4022/udp/239.0.0.146:1234
+# EXTINF: 0 , Star TV
+http://178.165.45.203:4022/udp/239.0.0.160:1234
+# EXTINF: 0 , Music Box UA
+http://178.165.45.203:4022/udp/239.0.0.162:1234
+# EXTINF: 0 , A-One UA
+http://178.165.45.203:4022/udp/239.0.0.167:1234
+# EXTINF: 0 , Nickelodeon
+http://178.165.45.203:4022/udp/239.0.0.196:1234
+# EXTINF: 0 , Disney channel
+http://178.165.45.203:4022/udp/239.0.0.193:1234
+# EXTINF: 0 , Children
+http://178.165.45.203:4022/udp/239.0.0.194:1234
+# EXTINF: 0 , Carousel
+http://178.165.45.203:4022/udp/239.0.0.195:1234
+# EXTINF: 0 , children / TV Club
+http://178.165.45.203:4022/udp/239.0.0.154:1234
+# EXTINF: 0 , Malyatko TV
+http://178.165.45.203:4022/udp/239.0.0.197:1234
+# EXTINF: 0 , Pіksel
+http://178.165.45.203:4022/udp/239.0.0.14:1234
+# EXTINF: 0 , Enter-Film
+http://178.165.45.203:4022/udp/239.0.0.224:1234
+# EXTINF: 0 , Sony Sci-Fi
+http://178.165.45.203:4022/udp/239.0.0.226:1234
+# EXTINF: 0 , Diva universal
+http://178.165.45.203:4022/udp/239.0.0.227:1234
+# EXTINF: 0 , Fox-Crime
+http://178.165.45.203:4022/udp/239.0.0.140:1234
+# EXTINF: 0 , Fox-Life
+http://178.165.45.203:4022/udp/239.0.0.141:1234
+# EXTINF: 0 , Real Scary TV
+http://178.165.45.203:4022/udp/239.0.0.228:1234
+# EXTINF: 0 , Russian Illusion
+http://178.165.45.203:4022/udp/239.0.0.229:1234
+# EXTINF: 0 , TV XXI
+http://178.165.45.203:4022/udp/239.0.0.230:1234
+# EXTINF: 0 , Evrokino
+http://178.165.45.203:4022/udp/239.0.0.231:1234
+# EXTINF: 0 , Cinema House
+http://178.165.45.203:4022/udp/239.0.0.234:1234
+# EXTINF: 0 , TV1000 Action
+http://178.165.45.203:4022/udp/239.0.0.242:1234
+# EXTINF: 0 , TV1000 East
+http://178.165.45.203:4022/udp/239.0.0.243:1234
+# EXTINF: 0 , TV 1000 Ru Kino
+http://178.165.45.203:4022/udp/239.0.0.235:1234
+# EXTINF: 0 , SET
+http://178.165.45.203:4022/udp/239.0.0.236:1234
+# EXTINF: 0 , Universal
+http://178.165.45.203:4022/udp/239.0.0.241:1234
+# EXTINF: 0 , MGM
+http://178.165.45.203:4022/udp/239.0.0.238:1234
+# EXTINF: 0 , Comedy TV
+http://178.165.45.203:4022/udp/239.0.0.239:1234
+# EXTINF: 0 , Fashion-TV
+http://178.165.45.203:4022/udp/239.0.0.137:1234
+# EXTINF: 0 , Ukrainian Fashion
+http://178.165.45.203:4022/udp/239.0.0.161:1234
+
