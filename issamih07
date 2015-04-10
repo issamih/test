@@ -130,6 +130,8 @@ http://93.184.221.133/00573D/1211/1211-0.m3u8
 #EXTINF:0,Sky Sports News
 http://93.184.221.133/00573D/183/183-0.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="bein.png" group-title=" test SPORTS", test arab BeIN HD
+http://besthd4u.com/stb/iptv/iptv_arab.m3u
 
 #EXTINF:-1 tvg-name="" tvg-logo="bein.png" group-title="SPORTS", BeIN HD
 http://50.7.69.186:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
