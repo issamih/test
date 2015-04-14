@@ -1,4 +1,46 @@
 #EXTM3U
+
+ EXTINF:0, bein sports 1 hd
+
+http://sportztv.net/live/SportsTv/Appss/114.ts
+
+‪#‎EXTINF‬:0, bein sports 2 hd
+
+http://sportztv.net/live/SportsTv/Appss/115.ts
+
+#EXTINF:0, bein sports 3 hd
+
+http://sportztv.net/live/SportsTv/Appss/116.ts
+
+#EXTINF:0, bein sports 4 hd
+
+http://sportztv.net/live/SportsTv/Appss/117.ts
+
+#EXTINF:0, bein sports 5 hd
+
+http://sportztv.net/live/SportsTv/Appss/118.ts
+
+#EXTINF:0, bein sports 6 hd
+
+http://sportztv.net/live/SportsTv/Appss/119.ts
+
+#EXTINF:0, bein sports 7 hd
+
+http://sportztv.net/live/SportsTv/Appss/120.ts
+
+#EXTINF:0, bein sports 8 hd
+
+http://sportztv.net/live/SportsTv/Appss/121.ts
+
+#EXTINF:0, bein sports 9 hd
+
+http://sportztv.net/live/SportsTv/Appss/122.ts
+
+#EXTINF:0, bein sports 10 hd
+
+http://sportztv.net/live/SportsTv/Appss/123.ts
+
+
 #EXTINF:-1,bein news
 rtmp://test.volkatv.net:1935/iptv/ch110?code=0000 
  
