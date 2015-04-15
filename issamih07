@@ -28,6 +28,9 @@ rtmp://cp39414.live.edgefcs.net/live/event1@9756
 #EXTINF:-1,Sports Net 360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
+#EXTINF:-1,FOX SPORT HD.
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-1028k.m3u8
+
 #EXTINF:-1,FOX SPORT
 http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
 #EXTINF:-1,Eurosport (French)
@@ -55,8 +58,7 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
 #EXTINF:-1,ESPN3   (520)
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?=1
 
-#EXTINF:-1,FOX SPORT HD.
-http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+
 
 #EXTINF:-1, FOX SPORTS Sp(522)
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
