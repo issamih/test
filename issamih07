@@ -78,9 +78,9 @@ http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad
 http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
 #EXTINF:0,beIN Usa
 http://50.7.69.186:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
-
+#EXTINF:-1, EuroSport1
 http://46.61.226.18/hls/CH_EUROSPORT/bw1500000/variant.m3u8?version=2
-
+#EXTINF:-1, EuroSport2
 http://46.61.226.18/hls/CH_EUROSPORT2/bw1500000/variant.m3u8?version=2
 
 
