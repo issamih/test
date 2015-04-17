@@ -33,12 +33,14 @@ rtmp://cp39414.live.edgefcs.net/live/event1@9756
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:0, BEIN SPORTS Spa HD
 http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
 
  
 #EXTINF:0, BEIN SPORTS HD
 rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live/beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450
-
-
+#EXTINF:-1,FOX SPORT News
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
 #EXTINF:-1,FOX SPORT
 http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
 #EXTINF:-1,Eurosport (French)
