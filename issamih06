@@ -1,9 +1,9 @@
-#EXTINF:-1 tvg-name="British_Eurosport_HD" tvg-logo="" group-title="SPORTS", British EuroSports 1
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS", British EuroSports 1
 http://93.184.221.133/00573D/1210/1210-0.m3u8
-#EXTINF:-1 tvg-name="British_Eurosport_2" tvg-logo="" group-title="SPORTS",British EuroSports 2
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",British EuroSports 2
 http://93.184.221.133/00573D/1211/1211-0.m3u8
 
-#EXTINF:-1, group-title=" test SPORTS", 2M 
+#EXTINF:-1, group-title="SPORTS", 2M 
 http://globalboxrtmp.tulix.tv:1935/2mmonde/globaltv-2mmonde.stream/chunklist_w1603616107.m3u8
 #EXTINF:-1,2M
 rtmp://162.212.176.107:1935/2mmonde/globaltv-2mmonde.stream
