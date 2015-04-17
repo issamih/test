@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1, 2M
+#EXTINF:-1, 2M group-title=" test SPORTS"
 http://globalboxrtmp.tulix.tv:1935/2mmonde/globaltv-2mmonde.stream/chunklist_w1603616107.m3u8
 #EXTINF:-1,2M
 rtmp://162.212.176.107:1935/2mmonde/globaltv-2mmonde.stream
