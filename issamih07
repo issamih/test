@@ -348,3 +348,163 @@ http://178.165.45.203:4022/udp/239.0.0.219:1234
 SKY SPORTS 1 http://87.116.166.195:8117
 SKY SPORTS 2 http://87.116.166.195:8119
 SKY SPORTS F1 http://87.116.166.195:8115 
+
+#EXTINF:-1,ABC NEWS
+ 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+ 
+#EXTINF:-1,BBC One
+ 
+http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
+ 
+#EXTINF:-1,BBC Two
+ 
+http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8
+ 
+#EXTINF:-1,BBC World News
+ 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+ 
+#EXTINF:-1,BLOOMBERG
+ 
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+ 
+#EXTINF:-1,CBS Action
+ 
+http://llnw.live.simplestream.com/coder4/coder.channels.channel2/hls/3/playlist.m3u8
+ 
+#EXTINF:-1, CNN
+ 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+ 
+#EXTINF:-1, CTV 1
+ 
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+ 
+#EXTINF:-1, CTV 2
+ 
+http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+ 
+#EXTINF:-1, CTV 3
+ 
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
+ 
+#EXTINF:-1, Food Network
+ 
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
+ 
+#EXTINF:-1, France 24
+ 
+http://llnw.live.simplestream.com/coder7/coder.channels.channel14/hls/3/playlist.m3u8
+ 
+#EXTINF:-1,Golf Channel
+ 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8?Vd?u#bt!25
+ 
+#EXTINF:-1, HBO
+ 
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+ 
+#EXTINF:-1, HBO
+ 
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+ 
+#EXTINF:-1,HBO Comedy
+ 
+http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+ 
+#EXTINF:-1,iTV 1
+ 
+http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
+ 
+#EXTINF:-1,iTV 2
+ 
+http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
+ 
+#EXTINF: 0, MTV Hits
+ 
+http://92.50.181.6/tv/1278/index.m3u8
+ 
+#EXTINF: 0, MTV Rocks
+ 
+http://92.50.181.6/tv/1279/index.m3u8
+ 
+#EXTINF:-1, NBC
+ 
+http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
+ 
+#EXTINF:-1, NBCSN
+ 
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+ 
+#EXTINF: 0,OSN
+ 
+http://185.27.237.105:8082/TV0065
+ 
+#EXTINF: 0,OSN Drama
+ 
+http://185.27.237.105:8082/TV0075
+ 
+#EXTINF: 0,OMN Comedy
+ 
+http://185.27.237.105:8082/TV0021
+ 
+#EXTINF:-1,Showtime
+ 
+http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/manifest.m3u8?wowzasessionid=1419875151
+ 
+#EXTINF:-1,Sky Movies Action & Adventure
+ 
+http://91.109.20.227:8080/TV4245
+ 
+#EXTINF:-1,Sky Movies Comedy
+ 
+http://91.109.20.227:8080/TV4246
+ 
+#EXTINF:-1,Sky Movies Disney
+ 
+http://91.109.20.227:8080/TV4247
+ 
+#EXTINF:-1,Sky Movies Family
+ 
+http://91.109.20.227:8080/TV4248
+ 
+#?EXTINF?:-1,Sky Movies Premiere
+ 
+http://91.109.20.227:8080/TV4251
+ 
+#EXTINF:-1,Sky Movies Premiere+
+ 
+http://91.109.20.227:8080/TV4252
+ 
+#EXTINF:-1,Sky Movies SciFi
+ 
+http://185.56.30.123:8082/TV4249
+ 
+?#EXTINF:-1,Sky Movies Select
+ 
+http://91.109.20.227:8080/TV4254
+ 
+#EXTINF:0,SportsNet360
+ 
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+ 
+#EXTINF:-1,TSN 1
+ 
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+ 
+#EXTINF:-1,TSN 2
+ 
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+ 
+#EXTINF:-1,True Movies 1
+ 
+http://llnw.live.simplestream.com/coder4/coder.channels.channel8/hls/3/playlist.m3u8
+ 
+#EXTINF:-1,True Movies 2
+ 
+http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist.m3u8
+ 
+#EXTINF:0,VH1 Classic
+ 
+http://85.255.183.212:1234/udp/239.0.0.17:1234
