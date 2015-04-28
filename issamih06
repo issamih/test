@@ -235,3 +235,129 @@ http://185.27.237.105:8082/TV0125
 http://185.27.237.105:8082/TV0129
 http://185.27.237.105:8082/TV0130
 
+#EXTINF:-1,MBC_MAX
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1,MBC_ACTION
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1,MBC_BOLLYWOOD
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1,Ennahar_tv_AlGeria
+http://live.ennahartv.net/endz/EnnaharTV/chunklist.m3u8
+#EXTINF:0,Samira Tv
+http://arabic.dynns.com:1935/arabic/SamiraTv/chunklist_w299559257.m3u8?wmsAuthSign
+#EXTINF:0,MBC Masr2
+http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthSign
+#EXTINF:0,MBC Masr2
+http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthSign
+#EXTINF:0,ZeeA lwen
+http://arabic.dynns.com:1935/arabic/ZeeAlwen/chunklist_w2104553105.m3u8?wmsAuthSign
+#EXTINF:0,Zee Aflem
+http://arabic.dynns.com:1935/arabic/ZeeAflem/chunklist_w2136840971.m3u8?wmsAuthSign
+#EXTINF:0,Rotana Cinema
+http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAuthSign
+#EXTINF:0,Cima
+http://arabic.dynns.com:1935/arabic/Cima/chunklist_w533092796.m3u8?wmsAuthSign
+#EXTINF:0,2M Maroc
+http://arabic.dynns.com:1935/arabic/2MMaroc/chunklist_w420985993.m3u8?wmsAuthSign
+#EXTINF:0,AlOula Maroc
+http://arabic.dynns.com:1935/arabic/AlOulaMaroc/chunklist_w1735693996.m3u8?wmsAuthSign
+#EXTINF:0,AlMaghribya
+http://arabic.dynns.com:1935/arabic/AlMaghribya/chunklist_w1280518789.m3u8?wmsAuthSign
+#EXTINF:0,Samira Tv
+http://arabic.dynns.com:1935/arabic/SamiraTv/chunklist_w299559257.m3u8?wmsAuthSign
+#EXTINF:0,AlHaddaf TV DZ
+http://arabic.dynns.com:1935/arabic/AlHaddafTVDZ/chunklist_w323644997.m3u8?wmsAuthSign
+#EXTINF:0,Beur Tv DZ
+http://arabic.dynns.com:1935/arabic/BeurTvDZ/chunklist_w1043121990.m3u8?wmsAuthSign
+#EXTINF:0,Dzair TV
+http://arabic.dynns.com:1935/arabic/DzairTV/chunklist_w2084990686.m3u8?wmsAuthSign
+#EXTINF:0,Elwatan DZ
+http://arabic.dynns.com:1935/arabic/ElwatanDZ/chunklist_w340461112.m3u8?wmsAuthSign
+#EXTINF:0,Hogar TV DZ
+http://arabic.dynns.com:1935/arabic/HogarTVDZ/chunklist_w1750628027.m3u8?wmsAuthSign
+#EXTINF:0,Zahra Ennahar TV DZ
+http://arabic.dynns.com:1935/arabic/ZahraEnnaharTVDZ/chunklist_w185198426.m3u8?wmsAuthSig
+#EXTINF:0,KBC DZ
+http://arabic.dynns.com:1935/arabic/KBCDZ/chunklist_w1395077628.m3u8?wmsAuthSign
+#EXTINF:0,Ennahar TV DZ
+http://arabic.dynns.com:1935/arabic/EnnaharTVDZ/chunklist_w1828860946.m3u8?wmsAuthSign
+#EXTINF:0,Echorouk TV
+http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8?wmsAuthSig
+#EXTINF:0,Tamazigh Algeria
+http://arabic.dynns.com:1935/arabic/TamazighAlgeria/chunklist_w1945882698.m3u8?wmsAuthSign
+#EXTINF:0,AbuDhabi ALOula
+http://arabic.dynns.com:1935/arabic/AbuDhabiALOula/chunklist_w1473477043.m3u8?wmsAuthSign
+#EXTINF:0,AbuDhabi Drama
+http://arabic.dynns.com:1935/arabic/AbuDhabiDrama/chunklist_w656649567.m3u8?wmsAuthSign
+#EXTINF:0,AbuDhabi Sport1
+http://arabic.dynns.com:1935/arabic/AbuDhabiSport1/chunklist_w655645253.m3u8?wmsAuthSign
+#EXTINF:0,AbuDhabi Sport2
+http://arabic.dynns.com:1935/arabic/AbuDhabiSport2/chunklist_w1695250300.m3u8?wmsAuthSign
+#EXTINF:0,ALArabia
+http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
+#EXTINF:0,AlArabia Hadath
+http://arabic.dynns.com:1935/arabic/AlArabiaHadath/chunklist_w1650152304.m3u8?wmsAuthSign
+#EXTINF:0,AlJadeed
+http://arabic.dynns.com:1935/arabic/AlJadeed/chunklist_w1466691586.m3u8?wmsAuthSign
+#EXTINF:0,Aljazeera
+http://arabic.dynns.com:1935/arabic/Aljazeera/chunklist_w900334084.m3u8?wmsAuthSign
+#EXTINF:0,GIM Aljazeera Children
+http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
+#EXTINF:0,AljazeeraDocumentaire
+http://arabic.dynns.com:1935/arabic/AljazeeraDocumentaire/chunklist_w788462918.m3u8?wmsAuthSign
+#EXTINF:0,AlJazeera English
+http://arabic.dynns.com:1935/arabic/AlJazeeraEnglish/chunklist_w1063767894.m3u8?wmsAuthSign
+#EXTINF:0,AlMagharibiaDZ
+http://arabic.dynns.com:1935/arabic/AlMagharibiaDZ/chunklist_w644304499.m3u8?wmsAuthSign
+#EXTINF:0,Dream1
+http://arabic.dynns.com:1935/arabic/Dream1/chunklist_w1810603854.m3u8?wmsAuthSign
+#EXTINF:0,Dream2
+http://arabic.dynns.com:1935/arabic/Dream2/chunklist_w1601507477.m3u8?wmsAuthSign
+#EXTINF:0,Nilecinema
+http://arabic.dynns.com:1935/arabic/Nilecinema/chunklist_w889933210.m3u8?wmsAuthSign
+#EXTINF:0,Nile Drama
+http://arabic.dynns.com:1935/arabic/NileDrama/chunklist_w1824846371.m3u8?wmsAuthSign
+#EXTINF:0,Cairo Drama
+http://arabic.dynns.com:1935/arabic/CairoDrama/chunklist_w2138252081.m3u8?wmsAuthSign
+#EXTINF:0,AlNahar Drama
+http://arabic.dynns.com:1935/arabic/AlNaharDrama/chunklist_w965675030.m3u8?wmsAuthSign
+#EXTINF:0,Nile Sport
+http://arabic.dynns.com:1935/arabic/NileSport/chunklist_w499764461.m3u8?wmsAuthSign
+#EXTINF:0,AlNahar Tv
+http://arabic.dynns.com:1935/arabic/AlNaharTv/chunklist_w48561773.m3u8?wmsAuthSign
+#EXTINF:0,Moga Comedy
+http://arabic.dynns.com:1935/arabic/MogaComedy/chunklist_w864823302.m3u8?wmsAuthSign
+#EXTINF:0,AlResala
+http://arabic.dynns.com:1935/arabic/AlResala/chunklist_w1909997661.m3u8?wmsAuthSign
+#EXTINF:0,Iqra
+http://arabic.dynns.com:1935/arabic/Iqra/chunklist_w803463768.m3u8?wmsAuthSign
+#EXTINF:0,AlHaramayn
+http://arabic.dynns.com:1935/arabic/AlHaramayn/chunklist_w249817727.m3u8?wmsAuthSign
+#EXTINF:0,Ettounisia
+http://arabic.dynns.com:1935/arabic/Ettounisia/chunklist_w1158397371.m3u8?wmsAuthSign
+#EXTINF:0,Tounessna
+http://arabic.dynns.com:1935/arabic/Tounessna/chunklist_w44149638.m3u8?wmsAuthSign
+#EXTINF:0,Nessma
+http://arabic.dynns.com:1935/arabic/Nessma/chunklist_w510052650.m3u8?wmsAuthSign
+#EXTINF:0,Future TV
+http://arabic.dynns.com:1935/arabic/FutureTV/chunklist_w1193088721.m3u8?wmsAuthSign
+#EXTINF:0,LBC SAT
+http://arabic.dynns.com:1935/arabic/LBCSAT/chunklist_w1279392262.m3u8?wmsAuthSign
+#EXTINF:0,AlManar
+http://arabic.dynns.com:1935/arabic/AlManar/chunklist_w1173875276.m3u8?wmsAuthSign
+#EXTINF:0,AlMayadeen
+http://arabic.dynns.com:1935/arabic/AlMayadeen/chunklist_w117830596.m3u8?wmsAuthSign
+#EXTINF:0,Noor Dubai
+http://arabic.dynns.com:1935/arabic/NoorDubai/chunklist_w66851562.m3u8?wmsAuthSign
+#EXTINF:0,Noon Tv
+http://arabic.dynns.com:1935/arabic/NoonTv/chunklist_w678994695.m3u8?wmsAuthSign
+#EXTINF:0,Qatar Tv
+http://arabic.dynns.com:1935/arabic/QatarTv/chunklist_w116621782.m3u8?wmsAuthSign
+#EXTINF:0,Rabia TV
+http://arabic.dynns.com:1935/arabic/RabiaTV/chunklist_w1191288925.m3u8?wmsAuthSign
+#EXTINF:0,watan tv
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
+#EXTINF:0,watan tv plus
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
+#EXTINF:0,watan ghanawi
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8
