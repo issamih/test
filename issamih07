@@ -35,8 +35,10 @@ http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad
 http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-
- 
+#EXTINF:0, GOLTV AMERICA 
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
+#EXTINF:0, Bein sport Ñ 
+http://urlcorta.es/69o9 
 #EXTINF:0, BEIN SPORTS HD
 rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live/beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450
 #EXTINF:-1,FOX SPORT News
