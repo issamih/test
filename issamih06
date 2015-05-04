@@ -154,6 +154,32 @@ rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
 #EXTINF:-1,medi1
 rtmp://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream
 
+#EXTINF:-1,MBC 1
+http://136.243.13.104:1985/live/karimosat/karimosat/81.ts
+ 
+#EXTINF:-1,MBC 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+ 
+#EXTINF:-1,MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+ 
+#EXTINF:-1,MBC MAX
+rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
+ 
+#EXTINF:-1,MBC Action
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+ 
+#EXTINF:-1,MBC Bollywood
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+ 
+#EXTINF:-1,MBC Drama
+http://3493220503@151.80.141.145/hls/mbc_drama.m3u8
+ 
+ 
+#EXTINF:-1,Al Aoula
+http://chkg.tdf-cdn.com/5958/index.m3u8
+
+
 1711 plaza st hubert
 quebec systeme
 
