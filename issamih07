@@ -3,7 +3,22 @@
 rtmp://$OPT:rtmp-raw=rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live/beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450
 #EXTINF:0,beIN US Spa HD
 rtmp://$OPT:rtmp-raw=rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live/beinsport_spa_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450
-
+#EXTINF‬:0,Sky Sports 1 HD
+rtmp://94.23.53.51/send//ss1hd.stream
+#EXTINF:0,Sky Sports 2 HD
+rtmp://94.23.53.51/send//ss2hd.stream
+#EXTINF:0,Sky Sports 3 HD
+rtmp://94.23.53.51/send//ss3hd.stream
+#EXTINF:0,Sky Sports 4 HD
+rtmp://94.23.53.51/send//ss4hd.stream
+#EXTINF:0,Sky Sports 5 HD
+rtmp://94.23.53.51/send//ss5hd.stream
+#EXTINF:0,Sky Sports News
+rtmp://94.23.53.51/send//ssnewshd.stream
+#EXTINF:0,BTSports 1 HD
+rtmp://94.23.53.51/send//bt1hd.stream
+#EXTINF:0,BT Sports 2 HD
+rtmp://94.23.53.51/send//bt2hd.stream
 #EXTINF:0,TSN 1 HD
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
 
