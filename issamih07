@@ -19,6 +19,36 @@ rtmp://94.23.53.51/send//ssnewshd.stream
 rtmp://94.23.53.51/send//bt1hd.stream
 #EXTINF:0,BT Sports 2 HD
 rtmp://94.23.53.51/send//bt2hd.stream
+
+BTSports 1 HD
+http://94.23.53.51:1935/send/bt1hd.stream/playlist.m3u8
+BT Sports 2 HD
+http://94.23.53.51:1935/send/bt2hd.stream/playlist.m3u8
+Sky Sports 1 HD
+http://94.23.53.51:1935/send/ss1hd.stream/playlist.m3u8
+Sky Sports 2 HD
+http://94.23.53.51:1935/send/ss2hd.stream/playlist.m3u8
+Sky Sports 3 HD
+http://94.23.53.51:1935/send/ss3hd.stream/playlist.m3u8
+Sky Sports 4 HD
+http://94.23.53.51:1935/send/ss4hd.stream/playlist.m3u8
+Sky Sports 5 HD
+http://94.23.53.51:1935/send/ss5hd.stream/playlist.m3u8
+Sky Sports News
+http://94.23.53.51:1935/send/ssnewshd.stream/playlist.m3u8
+Alternatives
+Sky Sport 1 HD
+http://smarterapps.ddns.net:8080/sp1/sp0RT1/index.m3u8
+Sky Sport 2 HD
+http://smarterapps.ddns.net:8080/sp2/MnSsp2Two/index.m3u8
+Sky Sport 3 HD
+http://smarterapps.ddns.net:8080/sp3/sprT3/index.m3u8
+Sky Sport 4 HD
+http://smarterapps.ddns.net:8080/sp4/sp4Rkk/index.m3u8
+Sky Sport 5 HD
+http://smarterapps.ddns.net:8080/sp5/sp5Pk/index.m3u8
+F1
+http://smarterapps.ddns.net:8080/f1/fOnE1/index.m3u8
 #EXTINF:0,TSN 1 HD
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
 
