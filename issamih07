@@ -557,3 +557,49 @@ http://llnw.live.simplestream.com/coder4/coder.channels.channel10/hls/3/playlist
 #EXTINF:0,VH1 Classic
  
 http://85.255.183.212:1234/udp/239.0.0.17:1234
+
+EXTM3U
+# EXTINF :-1, NatGeoWild HD
+http://46.173.175.164:8084/84
+‪#‎EXTINF‬:-1, 3D
+http://46.173.175.164:8085/85
+#EXTINF:-1, MezzoLive HD
+http://46.173.175.164:8086/86
+#EXTINF:-1, AnimalPlanet HD
+http://46.173.175.164:8087/87
+#EXTINF:-1, Football 1 HD
+http://46.173.175.164:8088/88
+#EXTINF:-1, Nic.HD
+http://46.173.175.164:8089/89
+#EXTINF:-1, Football 3 HD
+http://46.173.175.164:8090/90
+#EXTINF:-1, TV1000Comedy HD
+http://46.173.175.164:8091/91
+#EXTINF:-1, TV1000Megahit HD
+http://46.173.175.164:8092/92
+#EXTINF:-1, TV1000Premium HD
+http://46.173.175.164:8093/93
+#EXTINF:-1, Via.Nature HD
+http://46.173.175.164:8094/94
+#EXTINF:-1, ViasatSpor HD
+http://46.173.175.164:8095/95
+#EXTINF:-1, Football 2 HD
+http://46.173.175.164:8096/96
+#EXTINF:-1, HD Movie 2
+http://46.173.175.164:8097/97
+#EXTINF:-1, Sport1 HD
+http://46.173.175.164:8098/98
+#EXTINF:-1, MGM HD
+http://46.173.175.164:8099/99
+#EXTINF:-1, Nat.Geo HD
+http://46.173.175.164:8103/103
+#EXTINF:-1, Amedia Premium HD
+http://46.173.175.164:8104/104
+#EXTINF:-1, History HD
+http://46.173.175.164:8105/105
+#EXTINF:-1, TLC HD
+http://46.173.175.164:8106/106
+#EXTINF:-1, Travel HD
+http://46.173.175.164:8107/107
+#EXTINF:-1, Sport
+http://46.173.175.164:8121/121
