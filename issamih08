@@ -1,0 +1,444 @@
+#EXTM3U
+#EXTINF:-1,Bein News
+http://euroiptv2.mine.nu:80/live?channelId=185&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports FR 1 HD
+http://euroiptv2.mine.nu:80/live?channelId=186&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports FR 2 HD
+http://euroiptv2.mine.nu:80/live?channelId=187&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports FR 3 HD
+http://euroiptv2.mine.nu:80/live?channelId=188&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 1 HD
+http://euroiptv2.mine.nu:80/live?channelId=189&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 2 HD
+http://euroiptv2.mine.nu:80/live?channelId=190&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 3 HD
+http://euroiptv2.mine.nu:80/live?channelId=191&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 4 HD
+http://euroiptv2.mine.nu:80/live?channelId=192&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 5 HD
+http://euroiptv2.mine.nu:80/live?channelId=193&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 6 HD
+http://euroiptv2.mine.nu:80/live?channelId=194&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 7 HD
+http://euroiptv2.mine.nu:80/live?channelId=195&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 8 HD
+http://euroiptv2.mine.nu:80/live?channelId=196&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 9 HD
+http://euroiptv2.mine.nu:80/live?channelId=197&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 10 HD
+http://euroiptv2.mine.nu:80/live?channelId=198&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 11 HD
+http://euroiptv2.mine.nu:80/live?channelId=199&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports 12 HD
+http://euroiptv2.mine.nu:80/live?channelId=200&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,BeIn Sports en Espa?ol
+http://euroiptv2.mine.nu:80/live?channelId=204&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,BeIn Sports USA
+http://euroiptv2.mine.nu:80/live?channelId=205&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MBC 1 (AR)
+http://euroiptv2.mine.nu:80/live?channelId=417&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MBC 2 (AR)
+http://euroiptv2.mine.nu:80/live?channelId=418&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MBC 3 (AR)
+http://euroiptv2.mine.nu:80/live?channelId=419&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MBC 4 (AR)
+http://euroiptv2.mine.nu:80/live?channelId=420&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MBC Action (AR)
+http://euroiptv2.mine.nu:80/live?channelId=421&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MBC Masr (AR)
+http://euroiptv2.mine.nu:80/live?channelId=422&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MBC Drama (AR)
+http://euroiptv2.mine.nu:80/live?channelId=423&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MBC Max (AR)
+http://euroiptv2.mine.nu:80/live?channelId=424&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MBC Bollywood (AR)
+http://euroiptv2.mine.nu:80/live?channelId=425&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Zee Aflam (AR)
+http://euroiptv2.mine.nu:80/live?channelId=426&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,B4U Aflam (AR)
+http://euroiptv3.mine.nu:80/live?channelId=427&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,B4U Plus (AR)
+http://euroiptv3.mine.nu:80/live?channelId=428&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Art Aflam1 (AR)
+http://euroiptv2.mine.nu:80/live?channelId=429&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Art Aflam2 (AR)
+http://euroiptv2.mine.nu:80/live?channelId=430&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Art Cinema
+http://euroiptv2.mine.nu:80/live?channelId=431&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Moga Comedy
+http://euroiptv2.mine.nu:80/live?channelId=432&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Top Movies
+http://euroiptv2.mine.nu:80/live?channelId=433&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Star Cinema 2
+http://euroiptv2.mine.nu:80/live?channelId=435&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Rotana Aflam (AR)
+http://euroiptv2.mine.nu:80/live?channelId=745&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Rotana Classic (AR)
+http://euroiptv2.mine.nu:80/live?channelId=746&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Rotana Khaligi (AR)
+http://euroiptv2.mine.nu:80/live?channelId=748&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Rotana Masriya (AR)
+http://euroiptv2.mine.nu:80/live?channelId=749&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Rotana Music (AR)
+http://euroiptv2.mine.nu:80/live?channelId=750&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Rotana Cinema (AR)
+http://euroiptv2.mine.nu:80/live?channelId=751&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CBC (AR)
+http://euroiptv2.mine.nu:80/live?channelId=752&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CBC 2 (AR)
+http://euroiptv2.mine.nu:80/live?channelId=753&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CBC Drama (AR)
+http://euroiptv2.mine.nu:80/live?channelId=754&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CBC Sofra (AR)
+http://euroiptv2.mine.nu:80/live?channelId=755&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nile TV (AR)
+http://euroiptv2.mine.nu:80/live?channelId=756&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nile Cinema (AR)
+http://euroiptv2.mine.nu:80/live?channelId=757&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nile Comedy (AR)
+http://euroiptv2.mine.nu:80/live?channelId=758&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nile Drama (AR)
+http://euroiptv2.mine.nu:80/live?channelId=759&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nile Family (AR)
+http://euroiptv2.mine.nu:80/live?channelId=760&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nile Life (AR)
+http://euroiptv2.mine.nu:80/live?channelId=761&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nile News (AR)
+http://euroiptv2.mine.nu:80/live?channelId=762&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Time Cinema (AR)
+http://euroiptv2.mine.nu:80/live?channelId=763&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Time Comedy (AR)
+http://euroiptv2.mine.nu:80/live?channelId=764&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Zee Living (AR)
+http://euroiptv3.mine.nu:80/live?channelId=765&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Zee Alwan (AR)
+http://euroiptv3.mine.nu:80/live?channelId=766&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports 1
+http://euroiptv3.mine.nu:80/live?channelId=101&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports 2
+http://euroiptv1.mine.nu:80/live?channelId=102&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports 3
+http://euroiptv3.mine.nu:80/live?channelId=103&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports 4
+http://euroiptv3.mine.nu:80/live?channelId=104&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports 5
+http://euroiptv1.mine.nu:80/live?channelId=105&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports News
+http://euroiptv3.mine.nu:80/live?channelId=106&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports F1
+http://euroiptv3.mine.nu:80/live?channelId=107&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,ESPN UK
+http://euroiptv1.mine.nu:80/live?channelId=108&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,BT Sport 1
+http://euroiptv3.mine.nu:80/live?channelId=109&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,BT Sport 2
+http://euroiptv3.mine.nu:80/live?channelId=110&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,British Eurosport
+http://euroiptv1.mine.nu:80/live?channelId=111&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,British Eurosport 2
+http://euroiptv1.mine.nu:80/live?channelId=112&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Racing UK
+http://euroiptv1.mine.nu:80/live?channelId=113&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports F1 HD
+http://euroiptv1.mine.nu:80/live?channelId=114&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Premier Sports
+http://euroiptv3.mine.nu:80/live?channelId=115&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MUTV
+http://euroiptv3.mine.nu:80/live?channelId=116&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Setanta Ireland
+http://euroiptv1.mine.nu:80/live?channelId=117&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,BoxNation
+http://euroiptv1.mine.nu:80/live?channelId=118&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,RealMadrid
+http://euroiptv3.mine.nu:80/live?channelId=119&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports 1 HD
+http://euroiptv1.mine.nu:80/live?channelId=120&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SkySports 2 HD
+http://euroiptv1.mine.nu:80/live?channelId=121&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SkySports 3 HD
+http://euroiptv1.mine.nu:80/live?channelId=122&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SkySports 4 HD
+http://euroiptv1.mine.nu:80/live?channelId=123&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SkySports 5 HD
+http://euroiptv1.mine.nu:80/live?channelId=124&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SkySports News HD
+http://euroiptv1.mine.nu:80/live?channelId=125&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CANAL+ LIGA (ES)
+http://euroiptv2.mine.nu:80/live?channelId=126&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CANAL+ Futbol (ES)
+http://euroiptv2.mine.nu:80/live?channelId=127&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,C+ DEPORTES (ES)
+http://euroiptv2.mine.nu:80/live?channelId=128&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,C+LCampeones (ES)
+http://euroiptv2.mine.nu:80/live?channelId=129&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CANAL+ GOLF (ES)
+http://euroiptv2.mine.nu:80/live?channelId=130&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SPORTMANIA (ES)
+http://euroiptv2.mine.nu:80/live?channelId=131&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,EL GARAGE TV (ES)
+http://euroiptv2.mine.nu:80/live?channelId=132&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports 1 (IT)
+http://euroiptv4.mine.nu:80/live?channelId=141&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports 2 (IT)
+http://euroiptv4.mine.nu:80/live?channelId=142&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Canal+ Sport (FR)
+http://euroiptv1.mine.nu:80/live?channelId=153&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports 1 (DE)
+http://euroiptv2.mine.nu:80/live?channelId=154&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Sports 2 (DE)
+http://euroiptv2.mine.nu:80/live?channelId=155&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Bundesliga 1
+http://euroiptv2.mine.nu:80/live?channelId=156&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sport1 Voetbal (NL)
+http://euroiptv1.mine.nu:80/live?channelId=162&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sport1 Golf (NL)
+http://euroiptv1.mine.nu:80/live?channelId=163&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,EDGEsport HD (NL)
+http://euroiptv1.mine.nu:80/live?channelId=164&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Ten Cricket (India)
+http://euroiptv1.mine.nu:80/live?channelId=168&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,PTV Sports (PK)
+http://euroiptv3.mine.nu:80/live?channelId=170&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Ten Sports (PK)
+http://euroiptv1.mine.nu:80/live?channelId=172&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,StarSports 1 (India)
+http://euroiptv1.mine.nu:80/live?channelId=173&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,StarSports 2 (India)
+http://euroiptv1.mine.nu:80/live?channelId=174&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,StarSports 3 (India)
+http://euroiptv1.mine.nu:80/live?channelId=175&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Willow Cricket (India)
+http://euroiptv3.mine.nu:80/live?channelId=177&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Willow Cricket HD (India)
+http://euroiptv1.mine.nu:80/live?channelId=178&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sony Sixx
+http://euroiptv1.mine.nu:80/live?channelId=179&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sport TV 1 (PT)
+http://euroiptv1.mine.nu:80/live?channelId=181&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sport TV 2 (PT)
+http://euroiptv1.mine.nu:80/live?channelId=182&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sport TV 3 (PT)
+http://euroiptv1.mine.nu:80/live?channelId=183&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sport TV 4 (PT)
+http://euroiptv1.mine.nu:80/live?channelId=184&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Benfica HD
+http://euroiptv1.mine.nu:80/live?channelId=206&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Benfica2
+http://euroiptv1.mine.nu:80/live?channelId=207&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Rai Sports 1
+http://euroiptv1.mine.nu:80/live?channelId=208&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Rai Sports 2
+http://euroiptv1.mine.nu:80/live?channelId=209&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Super Sports 3 SouthAfrica
+http://euroiptv1.mine.nu:80/live?channelId=210&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Super Sports 7 SouthAfrica
+http://euroiptv1.mine.nu:80/live?channelId=211&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,TSN1 HD
+http://euroiptv1.mine.nu:80/live?channelId=219&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,TSN2 HD
+http://euroiptv1.mine.nu:80/live?channelId=220&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,TSN3 HD
+http://euroiptv1.mine.nu:80/live?channelId=221&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,TSN4 HD
+http://euroiptv1.mine.nu:80/live?channelId=222&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,TSN5 HD
+http://euroiptv1.mine.nu:80/live?channelId=223&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CHT Stadium 1 HD
+http://euroiptv1.mine.nu:80/live?channelId=224&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CHT Stadium 2 HD
+http://euroiptv1.mine.nu:80/live?channelId=225&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CHT Stadium 3 HD
+http://euroiptv1.mine.nu:80/live?channelId=226&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CHT Stadium 4 HD
+http://euroiptv1.mine.nu:80/live?channelId=227&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CHT Stadium 5 HD
+http://euroiptv1.mine.nu:80/live?channelId=228&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CHT Stadium 6 HD
+http://euroiptv1.mine.nu:80/live?channelId=229&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CHT Stadium X HD
+http://euroiptv1.mine.nu:80/live?channelId=230&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Astro 1 HD
+http://euroiptv1.mine.nu:80/live?channelId=231&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Astro 2 HD
+http://euroiptv1.mine.nu:80/live?channelId=232&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Astro 3 HD
+http://euroiptv1.mine.nu:80/live?channelId=233&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Fox Sports 1 HD
+http://euroiptv1.mine.nu:80/live?channelId=234&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Fox Sports 2 HD
+http://euroiptv1.mine.nu:80/live?channelId=235&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nova Sports 1 HD (GR)
+http://euroiptv3.mine.nu:80/live?channelId=238&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nova Sports 2 HD (GR)
+http://euroiptv3.mine.nu:80/live?channelId=239&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Super Sport 1 (AL)
+http://euroiptv2.mine.nu:80/live?channelId=240&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Super Sport 2 (AL)
+http://euroiptv2.mine.nu:80/live?channelId=241&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Super Sport 3 (AL)
+http://euroiptv2.mine.nu:80/live?channelId=242&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Super Sport 4 (AL)
+http://euroiptv2.mine.nu:80/live?channelId=243&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,WWE HD
+http://euroiptv3.mine.nu:80/live?channelId=246&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SportsNet 360
+http://euroiptv1.mine.nu:80/live?channelId=247&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SportsNet One HD
+http://euroiptv1.mine.nu:80/live?channelId=248&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SportsNet Ont HD
+http://euroiptv1.mine.nu:80/live?channelId=249&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SportsNet World HD
+http://euroiptv1.mine.nu:80/live?channelId=250&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cbs Sports US
+http://euroiptv1.mine.nu:80/live?channelId=251&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,CNBC Golf US
+http://euroiptv1.mine.nu:80/live?channelId=252&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,NBA US
+http://euroiptv1.mine.nu:80/live?channelId=253&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Fox Sports 1 (NL)
+http://euroiptv2.mine.nu:80/live?channelId=256&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Fox Sports 2 (NL)
+http://euroiptv2.mine.nu:80/live?channelId=257&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Fox Sports 3 (NL)
+http://euroiptv2.mine.nu:80/live?channelId=258&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Fox Sports 4 (NL)
+http://euroiptv2.mine.nu:80/live?channelId=259&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Dhabi Sports1
+http://euroiptv2.mine.nu:80/live?channelId=262&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,AbuDhabi Sports1
+http://euroiptv2.mine.nu:80/live?channelId=263&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,AbuDhabi Sports2
+http://euroiptv2.mine.nu:80/live?channelId=264&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nile Sport
+http://euroiptv2.mine.nu:80/live?channelId=265&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Action
+http://euroiptv1.mine.nu:80/live?channelId=301&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Comedy
+http://euroiptv1.mine.nu:80/live?channelId=302&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Drama
+http://euroiptv1.mine.nu:80/live?channelId=303&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Family
+http://euroiptv3.mine.nu:80/live?channelId=304&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Premiere
+http://euroiptv1.mine.nu:80/live?channelId=305&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Scifi&horror
+http://euroiptv1.mine.nu:80/live?channelId=306&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Premiere +1
+http://euroiptv3.mine.nu:80/live?channelId=307&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Greats
+http://euroiptv3.mine.nu:80/live?channelId=308&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Thriller
+http://euroiptv3.mine.nu:80/live?channelId=309&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Select
+http://euroiptv3.mine.nu:80/live?channelId=310&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Monsters
+http://euroiptv3.mine.nu:80/live?channelId=311&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+ #EXTINF:-1,Sky Cinema (DE) (DA)
+http://euroiptv1.mine.nu:80/live?channelId=337&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Cinema +1 (DE) (DA)
+http://euroiptv1.mine.nu:80/live?channelId=338&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Cinema +24 (DE) (DA)
+http://euroiptv1.mine.nu:80/live?channelId=339&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Action (DE) (DA)
+http://euroiptv1.mine.nu:80/live?channelId=340&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Comedy (DE) (DA)
+http://euroiptv1.mine.nu:80/live?channelId=341&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Emotion (DE) (DA)
+http://euroiptv1.mine.nu:80/live?channelId=342&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Hits (DE) (DA)
+http://euroiptv1.mine.nu:80/live?channelId=343&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sky Nostalgie (DE) (DA)
+http://euroiptv1.mine.nu:80/live?channelId=344&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA 
+
+ #EXTINF:-1,Dmax (DE)
+http://euroiptv4.mine.nu:80/live?channelId=520&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,DW (DE)
+http://euroiptv2.mine.nu:80/live?channelId=521&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,NDR (DE)
+http://euroiptv2.mine.nu:80/live?channelId=522&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,MDR (DE)
+http://euroiptv2.mine.nu:80/live?channelId=523&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,ARTE (DE)
+http://euroiptv2.mine.nu:80/live?channelId=524&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,BR (DE)
+http://euroiptv2.mine.nu:80/live?channelId=525&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,WDR (DE)
+http://euroiptv2.mine.nu:80/live?channelId=526&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,ORF1 (DE)
+http://euroiptv2.mine.nu:80/live?channelId=527&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,ORF2 (DE)
+http://euroiptv2.mine.nu:80/live?channelId=528&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,RTL2 (DE)
+http://euroiptv2.mine.nu:80/live?channelId=529&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Super RTL2 (DE)
+http://euroiptv2.mine.nu:80/live?channelId=530&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,RTL (DE)
+http://euroiptv2.mine.nu:80/live?channelId=531&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,VOX (DE)
+http://euroiptv2.mine.nu:80/live?channelId=532&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,NTV (DE)
+http://euroiptv2.mine.nu:80/live?channelId=533&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Phoenix (DE)
+http://euroiptv2.mine.nu:80/live?channelId=534&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Viva (DE)
+http://euroiptv2.mine.nu:80/live?channelId=535&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,RBB (DE)
+http://euroiptv2.mine.nu:80/live?channelId=536&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,KIKA (DE)
+http://euroiptv2.mine.nu:80/live?channelId=537&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Pro7 (DE)
+http://euroiptv2.mine.nu:80/live?channelId=538&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sat1 (DE)
+http://euroiptv2.mine.nu:80/live?channelId=539&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,ZDF (DE)
+http://euroiptv2.mine.nu:80/live?channelId=540&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,ARD (DE)
+http://euroiptv2.mine.nu:80/live?channelId=541&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SF1 (DE)
+http://euroiptv4.mine.nu:80/live?channelId=542&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SF2 (DE)
+http://euroiptv4.mine.nu:80/live?channelId=543&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,3Plus (DE)
+http://euroiptv4.mine.nu:80/live?channelId=544&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Eurosport (DE)
+http://euroiptv4.mine.nu:80/live?channelId=545&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Joiz (DE)
+http://euroiptv4.mine.nu:80/live?channelId=546&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,ZDFNeo (DE)
+http://euroiptv4.mine.nu:80/live?channelId=547&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,RTLNitro (DE)
+http://euroiptv4.mine.nu:80/live?channelId=548&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,SWR (DE)
+http://euroiptv4.mine.nu:80/live?channelId=549&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,ATV (DE)
+http://euroiptv4.mine.nu:80/live?channelId=550&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,3sat (DE)
+http://euroiptv4.mine.nu:80/live?channelId=551&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,N24 (DE)
+http://euroiptv4.mine.nu:80/live?channelId=552&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Kabel1 (DE)
+http://euroiptv4.mine.nu:80/live?channelId=553&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sport1 (DE)
+http://euroiptv4.mine.nu:80/live?channelId=554&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Sixx (DE)
+http://euroiptv4.mine.nu:80/live?channelId=555&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Nick (DE)
+http://euroiptv4.mine.nu:80/live?channelId=556&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cinema 1 (IT) (Dual Aud)
+http://euroiptv4.mine.nu:80/live?channelId=319&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cinema +1 (IT) (DA)
+http://euroiptv4.mine.nu:80/live?channelId=320&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cinema +24 (IT) (DA)
+http://euroiptv4.mine.nu:80/live?channelId=321&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cinema Heroes (IT) (DA)
+http://euroiptv4.mine.nu:80/live?channelId=322&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cinema Family (IT) (DA)
+http://euroiptv4.mine.nu:80/live?channelId=323&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cinema Passion (IT) (DA)
+http://euroiptv4.mine.nu:80/live?channelId=324&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cinema Comedy (IT) (DA)
+http://euroiptv4.mine.nu:80/live?channelId=325&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cinema Max (IT) (DA)
+http://euroiptv4.mine.nu:80/live?channelId=326&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cinema Cult (IT) (DA)
+http://euroiptv4.mine.nu:80/live?channelId=327&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
