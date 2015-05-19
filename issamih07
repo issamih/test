@@ -603,3 +603,65 @@ http://46.173.175.164:8106/106
 http://46.173.175.164:8107/107
 #EXTINF:-1, Sport
 http://46.173.175.164:8121/121
+
+---------*****************------------
+
+#EXTINF:-1,beIN Sports 1 HD
+
+rtmp://str1.ddns.me/iptv/ch111?code=111186521305
+
+#EXTINF:-1,beIN Sports 1
+
+rtmp://str1.ddns.me/iptv/ch119?code=111186521305
+
+#EXTINF:-1,beIN Sports 2
+
+rtmp://str1.ddns.me/iptv/ch112?code=111186521305
+
+#EXTINF:-1,beIN Sports 3
+
+rtmp://str1.ddns.me/iptv/ch113?code=111186521305
+
+#EXTINF:-1,beIN Sports 4
+
+rtmp://str1.ddns.me/iptv/ch114?code=111186521305
+
+#EXTINF:-1,beIN Sports 5
+
+rtmp://str1.ddns.me/iptv/ch115?code=111186521305
+
+#EXTINF:-1,beIN Sports 6
+
+rtmp://str1.ddns.me/iptv/ch116?code=111186521305
+
+#EXTINF:-1,beIN Sports 7
+
+rtmp://str1.ddns.me/iptv/ch117?code=111186521305
+
+#EXTINF:-1,beIN Sports 8
+
+rtmp://str1.ddns.me/iptv/ch118?code=111186521305
+
+#EXTINF:-1,beIN Sports 9HD
+
+rtmp://str1.ddns.me/iptv/ch510?code=111186521305
+
+#EXTINF:-1,beIN Sports 10HD
+
+rtmp://str1.ddns.me/iptv/ch511?code=111186521305
+#EXTINF:-1,beIN Sports 11
+
+rtmp://str1.ddns.me/iptv/ch512?code=111186521305
+
+#EXTINF:-1,beIN Sports 12
+
+rtmp://str1.ddns.me/iptv/ch513?code=111186521305
+
+#EXTINF:-1,beIN Sports 13HD FR
+
+rtmp://str1.ddns.me/iptv/ch514?code=111186521305:
+
+#EXTINF:-1,beIN Sports 15HD ES
+
+rtmp://str1.ddns.me/iptv/ch515?code=111186521305
+
