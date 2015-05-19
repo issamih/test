@@ -442,3 +442,25 @@ http://euroiptv4.mine.nu:80/live?channelId=325&uid=14&deviceUser=Euro.iptv&devic
 http://euroiptv4.mine.nu:80/live?channelId=326&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
 #EXTINF:-1,Cinema Cult (IT) (DA)
 http://euroiptv4.mine.nu:80/live?channelId=327&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+******
+#EXTM3U
+#EXTINF:-1,Canal+ Sport (FR)
+http://euroiptv1.mine.nu:80/live?channelId=153&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Bein Sports FR 3 HD
+http://euroiptv2.mine.nu:80/live?channelId=188&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Canal+ Decale (FR)
+http://euroiptv1.mine.nu:80/live?channelId=368&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Canal+ Family (FR)
+http://euroiptv1.mine.nu:80/live?channelId=369&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cine+ Frisson (FR)
+http://euroiptv1.mine.nu:80/live?channelId=371&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Cine+ Premier (FR)
+http://euroiptv1.mine.nu:80/live?channelId=373&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Eurosport2 (FR)
+http://euroiptv1.mine.nu:80/live?channelId=597&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Foot+ (FR)
+http://euroiptv1.mine.nu:80/live?channelId=598&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Comedie (FR)
+http://euroiptv1.mine.nu:80/live?channelId=600&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
+#EXTINF:-1,Disney Cinemagic (FR)
+http://euroiptv1.mine.nu:80/live?channelId=608&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
