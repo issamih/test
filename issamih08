@@ -1,4 +1,536 @@
 #EXTM3U
+#EXTINF:1,2M
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/2m
+#EXTINF:10,Al Aoula Maroc
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_aoula_maroc
+#EXTINF:168,Maghreb 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/maghreb_1
+#EXTINF:170,Medi 1 Sat
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/medi_1_sat
+#EXTINF:15,Al Maghribia
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_maghribia
+#EXTINF:54,Arrabia
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/arrabia
+#EXTINF:60,Assadissa
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/assadissa
+#EXTINF:52,Alriadia Sport
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/alriadia_sport
+#EXTINF:0,BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:130,France 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/france_2
+#EXTINF:131,France 3
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/france_3
+#EXTINF:132,France 4
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/france_4
+#EXTINF:133,France 5
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/france_5
+#EXTINF:134,France O
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/france_o
+#EXTINF:139,Gulli
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/gulli
+#EXTINF:156,M6
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/m6
+#EXTINF:220,TF1 SD
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/tf1_sd
+#EXTINF:221,TF1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/tf1
+#EXTINF:232,W9
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/w9
+#EXTINF:112,Cherie 25
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/cherie_25
+#EXTINF:108,Canal Plus Cinema
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/canal_plus_cinema
+#EXTINF:110,Canal Plus
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/canal_plus
+#EXTINF:109,Canal Plus Sport
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/canal_plus_sport
+
+#EXTINF:67,BeIN SPORTS 1 HD FR
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sports_1_hd_fr
+#EXTINF:68,BeIN SPORTS 2 HD FR
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sports_2_hd_fr
+#EXTINF:99,Bein Sports
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sports
+#EXTINF:69,Bein Sport 1 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_1_low
+#EXTINF:70,Bein Sport 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_1
+#EXTINF:83,Bein Sport 2 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_2_low
+#EXTINF:84,Bein Sport 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_2
+#EXTINF:85,Bein Sport 3 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_3_low
+#EXTINF:86,Bein Sport 3
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_3
+#EXTINF:87,Bein Sport 4 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_4_low
+#EXTINF:88,Bein Sport 4
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_4
+#EXTINF:89,Bein Sport 5 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_5_low
+#EXTINF:90,Bein Sport 5
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_5
+#EXTINF:91,Bein Sport 6 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_6_low
+#EXTINF:92,Bein Sport 6
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_6
+#EXTINF:93,Bein Sport 7 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_7_low
+#EXTINF:94,Bein Sport 7
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_7
+#EXTINF:95,Bein Sport 8 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_8_low
+#EXTINF:96,Bein Sport 8
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_8
+#EXTINF:97,Bein Sport 9 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_9_low
+#EXTINF:98,Bein Sport 9
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_9
+#EXTINF:71,Bein Sport 10 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_10_low
+#EXTINF:72,Bein Sport 10
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_10
+#EXTINF:73,Bein Sport 11 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_11_low
+#EXTINF:74,Bein Sport 11
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_11
+#EXTINF:75,Bein Sport 12 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_12_low
+#EXTINF:76,Bein Sport 12
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_12
+#EXTINF:77,Bein Sport 13 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_13_low
+#EXTINF:78,Bein Sport 13
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_13
+#EXTINF:79,Bein Sport 14 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_14_low
+#EXTINF:80,Bein Sport 14
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_14
+#EXTINF:81,Bein Sport 15 Low
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_15_low
+#EXTINF:82,Bein Sport 15
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_15
+#EXTINF:5,Abu Dhabi Sports 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/abu_dhabi_sports_1
+#EXTINF:6,Abu Dhabi Sports 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/abu_dhabi_sports_2
+#EXTINF:119,Dubai Sport 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/dubai_sport_1
+#EXTINF:211,Sky Bundesliga 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/sky_bundesliga_1
+#EXTINF:212,Sky Sport 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/sky_sport_1
+#EXTINF:213,Sky Sport 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/sky_sport_2
+#EXTINF:0,TSN 1 HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+
+#EXTINF:0,TSN 2 HD
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0,TSN 3 HD
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0,TSN 4 HD
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+
+#EXTINF:0,TSN 5 HD
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+
+#EXTINF:0,RDS 1 HD
+http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8
+
+#EXTINF:0,RDS 2 HD
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
+
+#EXTINF:0,RDSi
+http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
+#EXTINF:0, Tva
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,Sports Net 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+ 
+#EXTINF:0, BEIN SPORTS HD
+rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live/beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450
+
+
+#EXTINF:-1,FOX SPORT
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+#EXTINF:-1,Eurosport (French)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+
+
+
+
+#EXTINF:2,ALHayat
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/alhayat
+#EXTINF:3,Abu Dhabi Drama
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/abu_dhabi_drama
+#EXTINF:4,Abu Dhabi Emarat
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/abu_dhabi_emarat
+#EXTINF:7,Abu Dhabi
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/abu_dhabi
+#EXTINF:8,Aghanina
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/aghanina
+#EXTINF:9,Ajyal
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/ajyal
+
+#EXTINF:11,Al Baghdadia
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_baghdadia
+#EXTINF:12,Al Haneen Music
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_haneen_music
+#EXTINF:13,Al Iraqiya
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_iraqiya
+#EXTINF:14,Al Kahera Wal Nas
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_kahera_wal_nas
+
+#EXTINF:16,Al Majd
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_majd
+#EXTINF:17,Al Manar
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_manar
+#EXTINF:18,Al Masriyah
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_masriyah
+#EXTINF:19,Al Mehwar
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_mehwar
+#EXTINF:20,Al Moustakilla
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_moustakilla
+#EXTINF:21,Al Mutawasit
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_mutawasit
+#EXTINF:22,Al Nahar Drama
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_nahar_drama
+#EXTINF:23,Al Quran Al Karim
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_quran_al_karim
+#EXTINF:24,Al Rahma
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_rahma
+#EXTINF:25,Al Resalah
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_resalah
+#EXTINF:26,Al Sharqiya
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_sharqiya
+#EXTINF:27,Al Sumaria
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_sumaria
+#EXTINF:28,Al Thaniya
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_thaniya
+#EXTINF:29,Al Tunisia
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_tunisia
+#EXTINF:30,Al aqsa
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_aqsa
+#EXTINF:31,Al hurra Iraq
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_hurra_iraq
+#EXTINF:32,Al mayaden
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_mayaden
+#EXTINF:33,Al nahar
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_nahar
+#EXTINF:34,Al oula
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_oula
+#EXTINF:35,Al rasheed
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_rasheed
+#EXTINF:36,Al watan
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/al_watan
+#EXTINF:37,AlGeria
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/algeria
+#EXTINF:38,Alanwar
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/alanwar
+#EXTINF:39,Alarabiya
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/alarabiya
+#EXTINF:40,Albabeleyia
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/albabeleyia
+#EXTINF:41,Algeria 3
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/algeria_3
+#EXTINF:42,Alhayat 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/alhayat_2
+#EXTINF:43,Aljadeed
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/aljadeed
+#EXTINF:44,Aljazeera America
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/aljazeera_america
+#EXTINF:45,Aljazeera Children
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/aljazeera_children
+#EXTINF:46,Aljazeera Doc
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/aljazeera_doc
+#EXTINF:47,Aljazeera Misr
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/aljazeera_misr
+#EXTINF:48,Aljazeera
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/aljazeera
+#EXTINF:49,Alkass Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/alkass_tv
+#EXTINF:50,Almas
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/almas
+#EXTINF:51,Alqudis
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/alqudis
+
+#EXTINF:53,Arabica Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/arabica_tv
+
+#EXTINF:55,Art Aflam 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/art_aflam_1
+#EXTINF:56,Art Aflam 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/art_aflam_2
+#EXTINF:57,Art Hekayat 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/art_hekayat_2
+#EXTINF:58,Art Hekayat
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/art_hekayat
+#EXTINF:59,Ashrooq Tv Sudan
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/ashrooq_tv_sudan
+#EXTINF:61,B4u Aflam
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/b4u_aflam
+#EXTINF:62,BBC Arabic
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bbc_arabic
+#EXTINF:63,Baghdad
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/baghdad
+#EXTINF:64,Bahrain
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bahrain
+#EXTINF:65,Baitak cinema
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/baitak_cinema
+#EXTINF:66,Baraem
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/baraem
+
+#EXTINF:100,Beladi
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/beladi
+#EXTINF:101,Blue Nile
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/blue_nile
+#EXTINF:102,CBC 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/cbc_2
+#EXTINF:103,CBC Drama
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/cbc_drama
+#EXTINF:104,CBC Sofra
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/cbc_sofra
+#EXTINF:105,CBC
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/cbc
+#EXTINF:106,Cairo Cinema
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/cairo_cinema
+#EXTINF:107,Cairo Drama
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/cairo_drama
+
+#EXTINF:111,Cartoon Network
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/cartoon_network
+
+#EXTINF:113,Cima
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/cima
+#EXTINF:114,Coran
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/coran
+#EXTINF:115,Djibouti
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/djibouti
+#EXTINF:116,Dream 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/dream_1
+#EXTINF:117,Dream 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/dream_2
+#EXTINF:118,Dubai One
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/dubai_one
+
+#EXTINF:120,Dubai
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/dubai
+#EXTINF:121,Dzair Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/dzair_tv
+#EXTINF:122,EL DJAZAIRIA
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/el_djazairia
+#EXTINF:123,ESTV
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/estv
+#EXTINF:124,Echorouk Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/echorouk_tv
+#EXTINF:125,El Heddaf TV
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/el_heddaf_tv
+#EXTINF:126,Ennahar Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/ennahar_tv
+#EXTINF:127,Eriteria Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/eriteria_tv
+#EXTINF:128,Fatafeat
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/fatafeat
+#EXTINF:129,Fox Movies
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/fox_movies
+#EXTINF:135,France24 Arabic
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/france24_arabic
+#EXTINF:136,Funoon
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/funoon
+#EXTINF:137,Future
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/future
+#EXTINF:138,Gearone
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/gearone
+#EXTINF:140,Hanibal
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/hanibal
+#EXTINF:141,Horn Cable Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/horn_cable_tv
+#EXTINF:142,Iqra
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/iqra
+#EXTINF:143,Iraqia Sport
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/iraqia_sport
+#EXTINF:144,Ishtar
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/ishtar
+#EXTINF:145,Jordan
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/jordan
+#EXTINF:146,KBC Algeria
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/kbc_algeria
+#EXTINF:147,KSA 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/ksa_1
+#EXTINF:148,Kalsan Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/kalsan_tv
+#EXTINF:149,Karbala Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/karbala_tv
+#EXTINF:150,LBC
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/lbc
+#EXTINF:151,LLBN
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/llbn
+#EXTINF:152,Lbc Europe
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/lbc_europe
+#EXTINF:153,Lebanon Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/lebanon_tv
+#EXTINF:154,Libya Alwatania
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/libya_alwatania
+#EXTINF:155,Libya Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/libya_tv
+
+#EXTINF:157,MBC 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mbc_1
+#EXTINF:158,MBC 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mbc_2
+#EXTINF:159,MBC 3
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mbc_3
+#EXTINF:160,MBC 4
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mbc_4
+#EXTINF:161,MBC Action
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mbc_action
+#EXTINF:162,MBC Bollywood
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mbc_bollywood
+#EXTINF:163,MBC Drama
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mbc_drama
+#EXTINF:164,MBC Masr 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mbc_masr_2
+#EXTINF:165,MBC Masr
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mbc_masr
+#EXTINF:166,MBC Max
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mbc_max
+#EXTINF:167,MTV
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mtv
+#EXTINF:169,Mauritanie
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/mauritanie
+#EXTINF:171,Melody Classic
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/melody_classic
+#EXTINF:172,Melody
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/melody
+#EXTINF:173,Moga Comedy
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/moga_comedy
+#EXTINF:174,Music plus
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/music_plus
+#EXTINF:175,NBN
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/nbn
+#EXTINF:176,NRJ 12
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/nrj_12
+#EXTINF:177,Nat Geo Ad
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/nat_geo_ad
+#EXTINF:178,Neelain Sport
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/neelain_sport
+#EXTINF:179,Nessma
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/nessma
+#EXTINF:180,Nile Cinema
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/nile_cinema
+#EXTINF:181,Nile Comedy
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/nile_comedy
+#EXTINF:182,Nile Drama
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/nile_drama
+#EXTINF:183,Nile Sport
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/nile_sport
+#EXTINF:184,Nile Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/nile_tv
+#EXTINF:185,Noor dubai
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/noor_dubai
+#EXTINF:186,OTV Lebanon
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/otv_lebanon
+#EXTINF:187,Om Durman
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/om_durman
+#EXTINF:188,On TV
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/on_tv
+#EXTINF:189,Palestine
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/palestine
+#EXTINF:190,Panorama Drama 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/panorama_drama_2
+#EXTINF:191,Panorama comedy
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/panorama_comedy
+#EXTINF:192,Panorama drama
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/panorama_drama
+#EXTINF:193,Panorama film
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/panorama_film
+#EXTINF:194,Qatar
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/qatar
+#EXTINF:195,Rmc Decouverte
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/rmc_decouverte
+#EXTINF:196,Rotana Aflam
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/rotana_aflam
+#EXTINF:197,Rotana Classic
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/rotana_classic
+#EXTINF:198,Rotana Clip
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/rotana_clip
+#EXTINF:199,Rotana Khaligi
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/rotana_khaligi
+#EXTINF:200,Rotana Masriya
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/rotana_masriya
+#EXTINF:201,Rotana Music
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/rotana_music
+#EXTINF:202,Rotana cinema
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/rotana_cinema
+#EXTINF:203,Roya
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/roya
+#EXTINF:204,Royal somali Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/royal_somali_tv
+#EXTINF:205,Russia Alyaum
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/russia_alyaum
+#EXTINF:206,SNTV
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/sntv
+#EXTINF:207,Sada Al Balad
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/sada_al_balad
+#EXTINF:208,Sama Dubai
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/sama_dubai
+#EXTINF:209,Samira Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/samira_tv
+#EXTINF:210,Sharqia News
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/sharqia_news
+
+#EXTINF:214,Somali Land
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/somali_land
+#EXTINF:215,Spacetoon
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/spacetoon
+#EXTINF:216,Star cinema
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/star_cinema
+#EXTINF:217,Sudan Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/sudan_tv
+#EXTINF:218,Syria Drama
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/syria_drama
+#EXTINF:219,Syria
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/syria
+
+#EXTINF:222,Tamazigh Algeria
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/tamazigh_algeria
+#EXTINF:223,Tchad
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/tchad
+#EXTINF:224,Teledunet Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/teledunet_tv
+#EXTINF:225,Time comedy
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/time_comedy
+#EXTINF:226,Top Movies
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/top_movies
+#EXTINF:227,Toyor Al Janah
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/toyor_al_janah
+#EXTINF:228,Tunisia First TV
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/tunisia_first_tv
+#EXTINF:229,Tunisia national 1
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/tunisia_national_1
+#EXTINF:230,Tunisia national 2
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/tunisia_national_2
+#EXTINF:231,Universal Somali Tv
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/universal_somali_tv
+
+#EXTINF:233,Wanasah
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/wanasah
+#EXTINF:234,Zahra Ennahar
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/zahra_ennahar
+#EXTINF:235,Zaytoona
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/zaytoona
+#EXTINF:236,Zee Aflam
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/zee_aflam
+#EXTINF:237,Zee Alwan
+rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/zee_alwan
+
+
+#EXTM3U
 #EXTINF:-1,Bein News
 http://euroiptv2.mine.nu:80/live?channelId=185&uid=14&deviceUser=Euro.iptv&devicePass=Euro.iptv&deviceSn=9BEF7B34F4FB54FA
 #EXTINF:-1,Bein Sports FR 1 HD
