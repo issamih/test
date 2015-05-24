@@ -112,6 +112,8 @@ rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_14
 rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_15_low
 #EXTINF:82,Bein Sport 15
 rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/bein_sport_15
+#EXTINF:-1, BeIN Sports 
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u 
 #EXTINF:5,Abu Dhabi Sports 1
 rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/abu_dhabi_sports_1
 #EXTINF:6,Abu Dhabi Sports 2
