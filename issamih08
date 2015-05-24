@@ -118,6 +118,9 @@ http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b
 http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8
 #EXTINF:,GOL TV
 http://serbiaplus.com@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
+
+#EXTINF:-1, SportsNet 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,FOX SPORT 1
 http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8
 #EXTINF:-1,SPORT TV AMERICAS PT-PT
@@ -130,6 +133,11 @@ http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL1HD/variant.m3u8?version=2
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL2HD/variant.m3u8?version=2
 #EXTINF:,NTV PLUS FUTBOL 3
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_FUTBALL3HD/variant.m3u8?version=2
+ 
+#EXTINF:-1, Sport 1
+http://hls.svc.moyo.tv/hls/CH_SPORT1HD/bw3378000/variant.m3u8?version=2
+
+
 #EXTINF:5,Abu Dhabi Sports 1
 rtmp://213.136.90.47:1935/live?idu=mahir8_65414728080/abu_dhabi_sports_1
 #EXTINF:6,Abu Dhabi Sports 2
