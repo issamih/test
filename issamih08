@@ -136,6 +136,13 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_FUTBALL3HD/variant.m3u8?version=2
  
 #EXTINF:-1, Sport 1
 http://hls.svc.moyo.tv/hls/CH_SPORT1HD/bw3378000/variant.m3u8?version=2
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8?wowzasessionid=1707017037
+http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8?wowzasessionid=1227923794
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8?wowzasessionid=1117212295
+http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8?wowzasessionid=740555264
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8?wowzasessionid=794559949
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8?wowzasessionid=1270171110
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8?wowzasessionid=340337698
 
 
 #EXTINF:5,Abu Dhabi Sports 1
