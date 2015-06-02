@@ -47,9 +47,9 @@ rtmp://167.114.101.234:1935/live?idu=mahir8_65414728080/canal_plus
 rtmp://167.114.101.234:1935/live?idu=mahir8_65414728080/canal_plus_sport
 #EXTINF:1, final
 http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/101.ch
-#EXTINF:67,BeIN SPORTS 1 HD FR
+#EXTINF:67 group-title="SPORTS",BeIN SPORTS 1 HD FR
 rtmp://167.114.101.234:1935/live?idu=mahir8_65414728080/bein_sports_1_hd_fr
-#EXTINF:68,BeIN SPORTS 2 HD FR
+#EXTINF:68 group-title="SPORTS",BeIN SPORTS 2 HD FR
 rtmp://167.114.101.234:1935/live?idu=mahir8_65414728080/bein_sports_2_hd_fr
 #EXTINF:99,Bein Sports
 rtmp://167.114.101.234:1935/live?idu=mahir8_65414728080/bein_sports
