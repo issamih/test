@@ -604,4 +604,35 @@ rtmp://167.114.101.234:1935/live?idu=mahir8_65414728080/zee_aflam
 #EXTINF:237,Zee Alwan
 rtmp://167.114.101.234:1935/live?idu=mahir8_65414728080/zee_alwan
 
+Turk Sinema
+sinema_1
+http://37.187.57.123:56000/live/gala1/playlist.m3u8
+sinema_2
+http://37.187.57.123:56000/live/gala2/playlist.m3u8
+sinema_3
+http://37.187.57.123:56000/live/gala3/playlist.m3u8
+sinema_4
+http://37.187.57.123:56000/live/gala4/playlist.m3u8
+sinema_5
+http://37.187.57.123:56000/live/gala5/playlist.m3u8
+sinema_6
+http://37.187.57.123:56000/live/gala6/playlist.m3u8
+sinema_7
+http://37.187.57.123:56000/live/gala7/playlist.m3u8
+sinema_8
+http://37.187.57.123:56000/live/gala8/playlist.m3u8
+sinema_9
+http://37.187.57.123:56000/live/gala9/playlist.m3u8
+sinema_10
+http://37.187.57.123:56000/live/gala10/playlist.m3u8
+sinema_11
+http://37.187.57.123:56000/live/gala11/playlist.m3u8
+sinema_12
+http://37.187.57.123:56000/live/gala12/playlist.m3u8
+sinema_13
+http://37.187.57.123:56000/live/gala13/playlist.m3u8
+sinema_14
+http://37.187.57.123:56000/live/gala14/playlist.m3u8
+
+ http://109.87.253.58:8888/udp/238.0.16.66:1234
 
