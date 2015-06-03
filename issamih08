@@ -636,3 +636,130 @@ http://37.187.57.123:56000/live/gala14/playlist.m3u8
 
  http://109.87.253.58:8888/udp/238.0.16.66:1234
 
+#EXTINF:0,BEIN HD
+http://esiptv.mine.nu/78/650
+#EXTINF:0,BEIN HD 01
+http://esiptv.mine.nu/46/650
+#EXTINF:0,BEIN HD 02
+http://esiptv.mine.nu/278/650
+#EXTINF:0,BEIN HD 02
+http://esiptv.mine.nu/613/650
+#EXTINF:0,BEIN HD 03
+http://esiptv.mine.nu/614/650
+#EXTINF:0,BEIN HD 04
+http://esiptv.mine.nu/615/650
+#EXTINF:0,BEIN HD 04
+http://esiptv.mine.nu/61/650
+#EXTINF:0,BEIN HD 05
+http://esiptv.mine.nu/616/650
+#EXTINF:0,BEIN HD 06
+http://esiptv.mine.nu/48/650
+#EXTINF:0,BEIN HD 06 1280*738
+http://esiptv.mine.nu/617/650
+#EXTINF:0,BEIN HD 07
+http://esiptv.mine.nu/60/650
+#EXTINF:0,BEIN HD 07
+http://esiptv.mine.nu/618/650
+#EXTINF:0,BEIN HD 08
+http://esiptv.mine.nu/67/650
+#EXTINF:0,BEIN HD 08 1280*738
+http://esiptv.mine.nu/619/650
+#EXTINF:0,BEIN HD 09
+http://esiptv.mine.nu/620/650
+#EXTINF:0,BEIN HD 09
+http://esiptv.mine.nu/68/650
+#EXTINF:0,BEIN HD 10
+http://esiptv.mine.nu/69/650
+#EXTINF:0,BEIN HD 10 1920*1090
+http://esiptv.mine.nu/621/650
+#EXTINF:0,BEIN HD 11
+http://esiptv.mine.nu/612/650
+#EXTINF:0,BEIN HD 11
+http://esiptv.mine.nu/70/650
+#EXTINF:0,BEIN HD 11 1920*1090
+http://esiptv.mine.nu/622/650
+#EXTINF:0,BEIN HD 12
+http://esiptv.mine.nu/71/650
+#EXTINF:0,BEIN HD 12 ENG
+http://esiptv.mine.nu/623/650
+#EXTINF:0,BEIN HD 13 FR
+http://esiptv.mine.nu/411/650
+#EXTINF:0,BEIN HD 13 FR
+http://esiptv.mine.nu/624/650
+#EXTINF:0,BEIN HD 14
+http://esiptv.mine.nu/625/650
+#EXTINF:0,BEIN HD 14 1920*1090
+http://esiptv.mine.nu/413/650
+#EXTINF:0,BEIN HD 15
+http://esiptv.mine.nu/415/650
+#EXTINF:0,BEIN HD 15 FR
+http://esiptv.mine.nu/626/650
+#EXTM3U
+#EXTINF:-1,osn action
+http://78.46.91.39/633/650
+#EXTINF:-1,osn افلام1
+http://78.46.91.39/691/330
+#EXTINF:-1,osn action2
+http://78.46.91.39/668/650
+#EXTINF:-1,osn افلام
+http://78.46.91.39/689/650
+#EXTINF:-1,osn BoxOffice 1
+http://78.46.91.39/662/650
+#EXTINF:-1,مصارعه osn
+http://78.46.91.39/687/650
+#EXTINF:-1,osn Yahala
+http://78.46.91.39/671/650
+#EXTINF:-1,osn Cinema 2
+http://78.46.91.39/628/650
+#EXTINF:-1,osn افلام5
+http://78.46.91.39/695/650
+#EXTINF:-1,osn BoxOffice 2
+http://78.46.91.39/663/650
+#EXTINF:-1,osn sport
+http://78.46.91.39/667/650
+#EXTINF:-1,osn Yahala Shabab
+http://78.46.91.39/672/650
+#EXTINF:-1,osn Cinema 1
+http://78.46.91.39/627/650
+#EXTINF:-1,osn Premier2
+http://78.46.91.39/669/650
+#EXTINF:-1,osn Drama
+http://78.46.91.39/673/650
+#EXTINF:-1,osn Premier
+http://78.46.91.39/630/650
+#EXTINF:-1,osn On Demand
+http://78.46.91.39/678/650
+#EXTINF:-1,osn Comedy
+http://78.46.91.39/664/650
+#EXTINF:-1,osn DiscoverID
+http://78.46.91.39/683/650
+#EXTINF:-1,osn NationalGeo
+http://78.46.91.39/681/650
+#EXTINF:-1,osn Fan
+http://78.46.91.39/661/650
+#EXTINF:-1,osn First
+http://78.46.91.39/665/650
+#EXTINF:-1,osn Entertainment
+http://78.46.91.39/684/650
+#EXTINF:-1,osn MusicNow
+http://78.46.91.39/657/650
+#EXTINF:-1,osn MGM
+http://78.46.91.39/679/650
+#EXTINF:-1,osn Festival
+http://78.46.91.39/651/650
+#EXTINF:-1,osn JimJamKids
+http://78.46.91.39/676/650
+#EXTINF:-1,osn Cinema1
+http://78.46.91.39/627/650
+EXTINF:-1,beINSPORTS10HD
+http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/20.ch
+#EXTINF:-1,beINSPORTS1HD
+http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/11.ch
+#EXTINF:-1,beINSPORTS1HD(FR)
+http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/26.ch
+#EXTINF:-1,beINSPORTS2HD
+http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/12.ch
+#EXTINF:-1,beINSPORTS2HD(Fr)
+http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/27.ch
+#EXTINF:-1,beINSPORTS3HD
+http://5.189.140.216:2025/ABOUDA/ALSERSAWY_STREAM/13.ch
