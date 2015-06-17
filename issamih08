@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,Stream 1
+rtmp://$OPT:rtmp-raw=rtmp://live2.karwan.tv:7777/karwan.tv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE1IDExOjQzOjA5IFBNJmhhc2hfdmFsdWU9eE53d2VPUVVEOXhzR3NzU2FxUEJiQT09JnZhbGlkbWludXRlcz0yMA==/ playpath=falcon-eye-tv.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://karwan.tv/live/falcon-eye-tv.php
+
+
 #EXTINF:1,2M
 rtmp://167.114.101.234:1935/live?idu=mahir8_65414728080/2m
 #EXTINF:10,Al Aoula Maroc
