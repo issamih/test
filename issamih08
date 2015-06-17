@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Stream 1
-rtmp://live2.karwan.tv:7777/karwan.tv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE1IDExOjQzOjA5IFBNJmhhc2hfdmFsdWU9eE53d2VPUVVEOXhzR3NzU2FxUEJiQT09JnZhbGlkbWludXRlcz0yMA==/ playpath=falcon-eye-tv.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://karwan.tv/live/falcon-eye-tv.php
+rtmp://live2.karwan.tv:7777/karwan.tv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE1IDExOjQ3OjEzIFBNJmhhc2hfdmFsdWU9di9jYXRORWp5VHVJNHQvNmhXR1d6dz09JnZhbGlkbWludXRlcz0yMA==/ playpath=falcon-eye-tv.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://karwan.tv/live/falcon-eye-tv.php
 
 
 #EXTINF:1,2M
