@@ -1,7 +1,26 @@
 #EXTM3U
 #EXTINF:-1,Stream 1
 rtmp://live2.karwan.tv:7777/karwan.tv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE1IDExOjQ3OjEzIFBNJmhhc2hfdmFsdWU9di9jYXRORWp5VHVJNHQvNmhXR1d6dz09JnZhbGlkbWludXRlcz0yMA==/ playpath=falcon-eye-tv.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://karwan.tv/live/falcon-eye-tv.php
-
+IPTV Documentary Tv
+==================
+Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+TLC
+http://80.80.160.168/live/2/live.m3u8
+Travel Ch.
+http://80.80.160.168/live/3/live.m3u8
+Planet Green
+http://80.80.160.168/live/4/live.m3u8
+ID
+http://80.80.160.168/live/5/live.m3u8
+ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+SHO HD
+http://80.80.160.168/live/7/live.m3u8
+Discovery Ch. HD
+http://80.80.160.168/live/8/live.m3u8
+Discovery Sc. HD
+http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:1,2M
 rtmp://167.114.101.234:1935/live?idu=mahir8_65414728080/2m
