@@ -1,3 +1,84 @@
+#EXTM3U
+#EXTINF:-1,French Lover TV
+http://streamer.sibinet.com:8008/udp/239.254.2.50:1234
+#EXTINF:-1,XXL
+http://streamer.sibinet.com:8008/udp/239.254.2.72:1234
+#EXTINF:-1,Olala
+http://streamer.sibinet.com:8008/udp/239.254.2.90:1234
+#EXTINF:-1,XXX
+http://streamer.sibinet.com:8008/udp/239.254.2.107:1234
+#EXTINF:-1,Candy TV
+http://streamer.sibinet.com:8008/udp/239.254.2.225:1234
+#EXTINF:-1,Private
+http://streamer.sibinet.com:8008/udp/239.254.2.231:1234
+#EXTINF:-1,Hustler HD
+http://streamer.sibinet.com:8008/udp/239.254.2.232:1234
+#EXTINF:-1,Playboy TV
+http://streamer.sibinet.com:8008/udp/239.254.2.242:1234
+#EXTINF:-1,CandyMan
+http://streamer.sibinet.com:8008/udp/239.254.2.251:1234E
+#EXTINF:-1,bsx24#EXTM3U
+#EXTINF:-1,BABES SPORTING
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,OLALA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1,Power Girls TV HD
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,czech +18 mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,KOREA GIRLS TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
+#EXTINF:-1,KOREA OKADAI HD
+http://edge2.everyon.tv:1935/etv2/phd1003/BratuMarian.m3u8
+#EXTINF:-1,Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Korea RTMP 韩国phd1008
+rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1,Korea RTMP 韩国phd501
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1,Korea RTMP 韩国phd61
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1,Korea RTMP 韩国phd968
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1,KOREA SAKURA
+http://edge2.everyon.tv:1935/etv2sb/phd61/BratuMarian.m3u8
+ 
+SHARE.
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+ 
+ 
+ 
+BLUEHUSTLER
+http://j.mp/ZCH_C03_BLUEHUSTLER2_sly?.m3u8
+XXL (18+)
+http://j.mp/ZCH_C03_XXL3_sly?.m3u8
+RUSNIGHT
+http://j.mp/ZCH_C01_RUSNIGHT2_sly?.m3u8
+Русская ночь (18+)
+http://j.mp/ZCH_C06_OLALA_sly?.m3u8
+О-ля-ля (18+)
+http://j.mp/SOBLAZN_sly?.m3u8#EXTINF:0,XXXHD
+http://188.165.220.116:8081/live/62/playlist.m3u8
+#EXTINF:0,XXX1HD
+http://188.165.220.116:8081/live2/37/playlist.m3u8
+#EXTINF:-1,SuperOne +18
+http://212.70.155.243:40665/udp/237.100.0.169:4000?AbuDhabiTVHD
+#EXTINF:-1,Hustler TV
+http://212.70.155.243:40665/udp/237.100.0.170:4000?AbuDhabiTVHD
+#EXTINF:-1,Penthouse HD
+http://212.70.155.243:40665/udp/237.100.0.171:4000?AbuDhabiTVHD
+
+
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS", British EuroSports 1
 http://93.184.221.133/00573D/1210/1210-0.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",British EuroSports 2
