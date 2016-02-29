@@ -8,6 +8,9 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1,alarabiya alhadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1, fatafet
+http://38.99.146.93:7777/Fatafeat_LR.m3u8?session=d6696168741fdb289cfe9bd188921cc0a6b3ef15ee425b6edb5e5e473f36cd4ba299017ce29bf1aa
+
 
 #EXTM3U
 #EXTINF:-1, alaoulainter
