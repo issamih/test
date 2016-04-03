@@ -789,6 +789,32 @@ http://tamazight-tv.scdn.arkena.com/tamazight.isml/tamazight-audio101=64000-vide
 #EXTINF:-1, medi1 tv
 http://37.187.174.6/origin02/amlst:medi1tv/chunklist_w833133899_b800000.m3u8
 
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://www.princess3.com/files/images/26451.png",النهار دراما
+http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist_w934305784.m3u8
+ 
+#EXTINF:-1, tvg-name="" tvg-logo="http://www.mnty.tv/uploads/images/clip_19_1418394871_poster.png ",النهار اليوم
+http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u8
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://4.bp.blogspot.com/-6OWDwAOGf7s/Uk3jt13qbYI/AAAAAAAABZ4/p2_ZAO1I2Kw/s320/alnahar+tv+logo.png ",النهار
+http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
+ 
+ 
+ 
+#EXTINF:0,tvg-name="" tvg-logo="http://www.mnty.tv/uploads/images/clip_19_1418394871_poster.png ",AlNahar alyoum
+http://2.109.65.142/masa/14221.m3u8?v=1279345274
+ 
+#EXTINF:0,tvg-name="" tvg-logo="http://icontentorigin.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/AlNaharDrama-android-075037.jpg ",AlNahar Drama
+http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274
+ 
+ 
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/7/0/20701115/20701115,640x360,b:2.jpg ",Al thawra TV
+http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
+
+
+
+
 #EXTINF:0,MBC ACTION
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8 
 #EXTINF:0,MBC BOLLYWOOD
