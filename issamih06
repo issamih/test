@@ -915,7 +915,7 @@ http://70.25.55.38:1935/live/aljaleyatv/chunklist_w821993573.m3u8
 #EXTINF:-1,salamtv
 rtmp://46.43.64.166/salamtv/salamtv 
 
-#EXTINF:-1, tvg-name="" tvg-logo=" ",Cinema
+#EXTINF:-1, tvg-name="" tvg-logo=" ",Cinema Ajyal
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
 #EXTINF:-1,Sportube 1
