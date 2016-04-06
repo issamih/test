@@ -711,6 +711,9 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1,alarabiya alhadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,tvg-name="" tvg-logo="http://temosoft.com/wp-content/uploads/2015/04/mayadeen.jpg ",الميادين
+http://63.237.48.23/ios/ALMAYADEEN/ALMAYADEEN.m3u8
+ 
 #EXTINF:-1, fatafet
 http://38.99.146.93:7777/Fatafeat_LR.m3u8?session=d6696168741fdb289cfe9bd188921cc0a6b3ef15ee425b6edb5e5e473f36cd4ba299017ce29bf1aa
 #EXTM3U
@@ -806,6 +809,11 @@ http://2.109.65.142/masa/14221.m3u8?v=1279345274
  
 #EXTINF:0,tvg-name="" tvg-logo="http://icontentorigin.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/AlNaharDrama-android-075037.jpg ",AlNahar Drama
 http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274
+
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://magictvcanada.com/wp-content/uploads/2013/07/Al-Nahar-Sport.jpg ",AlNahar Films
+http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8
+ 
  
  
  
@@ -813,6 +821,75 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
 
 
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Future_tv_logo_2012.jpg ",future tv
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w657087134_b650000.m3u8
+ 
+#EXTINF:0,tvg-name="" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0023/6432/brand.gif?itok=cWWeuvrx ",LBC
+http://2.109.65.142/masa/14211.m3u8?v=1279345274
+
+
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://www.giniko.com/logos/190x110/183.jpg ",AL SHARJAH
+rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.timesofoman.com/uploads/images/2015/12/30/292987.gif ", oman tv 1
+http://38.96.148.30:1935/live/omantv1/playlist.m3u8
+ 
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Qatar_TV_logo.png",qatar tv
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=qatartv
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg ",Kuwait 1
+http://stream03.fasttelco.net:1935/live/_definst_/ktv1_480.stream/playlist.m3u8
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg ",Kuwait 2
+http://stream03.fasttelco.net:1935/live/_definst_/ktv2_480.stream/playlist.m3u8
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg ",Kuwait Tv 2
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
+ 
+ 
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_1_plus_95x95.gif ",Kuwait plus
+http://stream03.fasttelco.net:1935/live/_definst_/ktv8_480.stream/playlist.m3u8
+ 
+#EXTINF:-1,tvg-name="" tvg-logo=" ",Kuwait arabe
+http://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream/playlist.m3u8
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="https://i.vimeocdn.com/video/498758672_1280x720.jpg ",Kuwait almajlis
+http://stream03.fasttelco.net:1935/live/_definst_/ktv7_480.stream/playlist.m3u8
+ 
+ 
+ 
+#EXTINF:-1,tvg-name="" tvg-logo=" ",Sharjah Kabla
+http://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p/playlist.m3u8
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://1.bp.blogspot.com/-X4fZenlUSYU/UKFRHzyIauI/AAAAAAAABo4/5D4QKtGfBTA/s1600/sharjah-tv.jpg ",الشارقة
+rtmp://livestreaming.itworkscdn.net/smc1live/ playpath=smc1tv_360p swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf pageUrl=http://www.smc.ae/stream.html swfVfy=true live=true
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://www.qatarbroadcast.qa/img/logo-tv-alrayan.png ",الريان
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/oman_tv_sport.jpg ",oman sport
+http://38.96.148.30:1935/live/omantv2/gmswf.m3u8?v=1053886998
+ 
+#EXTINF:-1, tvg-name="" tvg-logo="http://www.goalzz.com/images/tv/sharjah_sport.jpg ",Sharjah Sport
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p/playlist.m3u8
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg ",sudia sport
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream2.m3u8
+ 
+ 
+ 
+#EXTINF:-1,tvg-name="" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_sport_95x84.gif ",kuwait sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+ 
+ 
 
 
 #EXTINF:0,MBC ACTION
@@ -837,6 +914,10 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://70.25.55.38:1935/live/aljaleyatv/chunklist_w821993573.m3u8
 #EXTINF:-1,salamtv
 rtmp://46.43.64.166/salamtv/salamtv 
+
+#EXTINF:-1, tvg-name="" tvg-logo=" ",Cinema
+http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
+
 #EXTINF:-1,Sportube 1
 http://sportube-lh.akamaihd.net/i/canale1_1@93401/master.m3u8
 #EXTINF:-1,Sportube 2
