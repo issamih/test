@@ -57,6 +57,13 @@ rtmp://46.43.64.166/salamtv/salamtv
 #EXTINF:-1, tvg-name="" tvg-logo=" ",Cinema Ajyal
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
+#EXTINF:-1,alquds tv
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?v=1053886998
+#EXTINF:-1,aqsa rv
+http://live.aqsatv.ps:1935/aqsatv/live/tv/gmswf.m3u8?v=1053886998
+#EXTINF:-1,alfajer tv
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/gmswf.m3u8?v=1053886998
+
 #EXTINF:0,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:0,MBC 4
