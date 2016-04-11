@@ -97,6 +97,57 @@ http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8
 #EXTINF:-1,tvg-name="" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/7/0/20701115/20701115,640x360,b:2.jpg ",Al thawra TV
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
 
+ 
+#EXTINF:0, صدى البلد دراما
+http://2.109.65.142/masa/14222.m3u8?v=117603230T
+#EXTINF:0, ميلودى أفلام
+http://38.96.148.163/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1176032304
+#EXTINF:0, كايرو دراما
+http://2.109.65.142/masa/14207.m3u8?v=1279345274
+#EXTINF:0,تايم سينما
+http://2.109.65.142/masa/14223.m3u8?v=1279345274
+#EXTINF:0,تايم افلام
+http://2.109.65.142/masa/14230.m3u8?v=117603230T
+#EXTINF:0, النهار
+http://2.109.65.142/masa/14221.m3u8?v=1279345274
+#EXTINF:0, البيت بيتك سينما
+http://2.109.65.142/masa/14202.m3u8?v=1279345274
+#EXTINF:0,المحور
+http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1176032304
+#EXTINF:0,دبى
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:0,دبى دراما
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
+#EXTINF:0, دبى أجنبى
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:0, سما دبى
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:0, دبى زمان
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1, موجا كوميدى
+http://2.109.65.247/masa/24704.m3u8?v=1279345274
+#EXTINF:-1, سينما كايرو
+http://2.109.65.247/masa/24703.m3u8?v=1279345274
+#EXTINF:-1, أون تى فى لايف
+http://2.109.65.247/masa/24701.m3u8?v=1279345274
+#EXTINF:0, ميلودى أفلام
+http://38.96.148.163/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1176032304
+#EXTINF:-1, ميلودى كالاسيك
+http://2.109.65.247/masa/24706.m3u8?v=1279345274
+#EXTINF:-1, كايرو سينما
+http://2.109.65.142/masa/14223.m3u8?v=1279345274
+#EXTINF:-1, تايم دراما
+http://2.109.65.142/masa/14230.m3u8?v=1279345274
+#EXTINF:1, كايرو دراما
+http://2.109.65.142/masa/14207.m3u8?v=1279345274
+#EXTINF:0,CNN international
+http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8
+#EXTINF:0, روسيا اليوم
+http://rt-a.akamaihd.net/ch_03@325607/320p.m3u8
+#EXTINF:0, النهار سينما
+http://2.109.65.247/masa/24703.m3u8?v=1279345274
+#EXTINF:0, النهار اليوم
+http://2.109.65.142/masa/14221.m3u8?v=1279345274
 
  
 #EXTINF:-1,tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Future_tv_logo_2012.jpg ",future tv
