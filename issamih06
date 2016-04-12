@@ -26,7 +26,38 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/06.m3u8
 #EXTINF:-1,beIN_SPORTS_News
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/07.m3u8
+#EXTINF:-1,Bein sport1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_1
+ 
+#EXTINF:-1,Bein sport2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_2
+ 
+#EXTINF:-1,Bein sport3
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_3
+ 
+#EXTINF:-1,Bein sport4
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_4
+ 
+#EXTINF:-1,Bein sport5
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_5
+ 
+#EXTINF:-1,Bein sport6
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_6
+ 
+#EXTINF:-1,Bein sport7
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_7
+ 
+#EXTINF:-1,Bein sport8
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_8
+ 
+#EXTINF:-1,Bein sport9
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_9
+ 
+#EXTINF:-1,Bein sport10
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_10
 
+#EXTINF:0,Dubai sport1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=dubai_sport_1
 
 #EXTINF:-1, alaoulainter
 http://alaoulainter-tv.scdn.arkena.com/alaoulainter.isml/index.m3u8
@@ -341,6 +372,367 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/st
  
 #EXTINF:-1,tvg-name="" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_sport_95x84.gif ",kuwait sport
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+ 
+ #EXTINF:-0,Baraem
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=baraem
+ 
+#EXTINF:-0,Spacetoon
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=spacetoon
+ 
+#EXTINF:-0,Cartoon Net Arabic
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=cartoon_network
+ 
+ 
+#EXTINF:0,Cbc extra
+https://manifest.googlevideo.com/api/manifest/hls_variant/itag/0/playlist_type/LIVE/signature/9367539D1B5CB117CC2ED44170C92564F1AFE9D5.329176BA9DD49AD2A0D0D61E227A73D140797CE2/requiressl/yes/sver/3/txs/9431309%2C9431310%2C9431311/fexp/9416126%2C9416891%2C9420052%2C9420452%2C9422596%2C9423662%2C9425944%2C9426927%2C9427705%2C9427902%2C9428398%2C9429381%2C9430032%2C9430829%2C9431311%2C9431720%2C9431860%2C9433204/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/upn/5Su3uSZH8RY/id/r7ammFV2blg.20/go/1/tx/9431311/source/yt_live_broadcast/expire/1460444270/ip/70.24.184.137/key/yt6/gcr/ca/ipbits/0/file/index.m3u8?cpn=k1Zm2yL6-pcrXbpq&ibw=1369843&ptk=CBCTV&oid=PlZrS5Fh56RMd9dmSL6XSA&ptchn=I2GNO5wyHedxH-nPTLDJ2g&pltype=contentlive&c=WEB&cver=1.20160407
+ 
+#EXTINF:0,Toktok Aflam
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=toktok_aflam
+ 
+#EXTINF:-1,Al Nahar Cinema
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_nahar_cinema
+ 
+#EXTINF:-0,ART Cinema
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=art_cinema
+ 
+#EXTINF:-0,ART AFlam 1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=art_aflam_1
+ 
+#EXTINF:-0,ART AFlam 2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=art_aflam_2
+ 
+#EXTINF:-0,ART Hekayat 1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=art_hekayat
+ 
+#EXTINF:-0,ART Hekayat 2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=art_hekayat_2
+ 
+#EXTINF:-0,Cima
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=cima
+ 
+#EXTINF:-0,Cairo Drama
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=cairo_drama
+ 
+#EXTINF:-0,Cairo Cinema
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=cairo_cinema
+ 
+#EXTINF:-0,Rotana Cinema
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=rotana_cinema
+ 
+#EXTINF:-0,Rotana Classic
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=rotana_classic
+ 
+#EXTINF:-0,Rotana Masriya
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=rotana_masriya
+ 
+#EXTINF:-0,Al Ahly TV
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_ahly_tv
+ 
+#EXTINF:-0,Nile Sport
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=nile_sport
+ 
+#EXTINF:-0,Nile Drama
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=nile_drama
+ 
+#EXTINF:-0,Nile Comedy
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=nile_comedy
+ 
+#EXTINF:-0,Nile Cinema
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=nile_cinema
+ 
+#EXTINF:-0,Panorama Drama
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=panorama_drama
+ 
+#EXTINF:-0,Panorama Drama 2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=panorama_drama_2
+ 
+#EXTINF:-0,Moga Comedy
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=moga_comedy
+ 
+#EXTINF:-0,Al Masriyah
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_masriyah
+ 
+#EXTINF:-0,Al Oula masr
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_oula
+ 
+#EXTINF:-0,Al Thaniya masr
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_thaniya
+ 
+#EXTINF:-0,Nile News
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=nile_news
+ 
+#EXTINF:-0,Nile tv
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=nile_tv
+ 
+#EXTINF:-0,ONTV
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=on_tv
+ 
+#EXTINF:-1,Alkahera wa AlNas2
+http://2.109.65.143/masa/14306.m3u8?v=1176025225
+ 
+#EXTINF:-0,Dream 1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=dream_1
+ 
+#EXTINF:-0,
+ 
+#EXTINF:-0,Al Nahar Drama
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_nahar_drama
+ 
+#EXTINF:-0,Al Nahar
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_nahar
+ 
+ 
+#EXTINF:0,AlNahar alyoum
+http://2.109.65.142/masa/14221.m3u8?v=1279345274
+ 
+#EXTINF:0,AlNahar
+http://50.7.137.2:1935/naharch/nahar_tvprofile2.stream/gmswf.m3u8?v=1279342241
+ 
+#EXTINF:0,AlNahar Alyoum
+http://50.7.137.2:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8?v=1279342241
+ 
+#EXTINF:0,AlNahar Drama
+http://50.7.137.2:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279342241
+ 
+#EXTINF:0,Sada Drama
+http://2.109.65.142/masa/14222.m3u8?v=117603230T
+ 
+#EXTINF:-0,Sada Al Balad
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=sada_al_balad
+ 
+#EXTINF:-1,CBC
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=cbc
+ 
+#EXTINF:-1,CBC 2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=cbc_2
+ 
+#EXTINF:-1,CBC Sofra
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=cbc_sofra
+ 
+#EXTINF:0,Cbc extra
+https://manifest.googlevideo.com/api/manifest/hls_variant/itag/0/playlist_type/LIVE/signature/9367539D1B5CB117CC2ED44170C92564F1AFE9D5.329176BA9DD49AD2A0D0D61E227A73D140797CE2/requiressl/yes/sver/3/txs/9431309%2C9431310%2C9431311/fexp/9416126%2C9416891%2C9420052%2C9420452%2C9422596%2C9423662%2C9425944%2C9426927%2C9427705%2C9427902%2C9428398%2C9429381%2C9430032%2C9430829%2C9431311%2C9431720%2C9431860%2C9433204/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/upn/5Su3uSZH8RY/id/r7ammFV2blg.20/go/1/tx/9431311/source/yt_live_broadcast/expire/1460444270/ip/70.24.184.137/key/yt6/gcr/ca/ipbits/0/file/index.m3u8?cpn=k1Zm2yL6-pcrXbpq&ibw=1369843&ptk=CBCTV&oid=PlZrS5Fh56RMd9dmSL6XSA&ptchn=I2GNO5wyHedxH-nPTLDJ2g&pltype=contentlive&c=WEB&cver=1.20160407
+ 
+ 
+#EXTINF:-1,Al Mehwar
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_mehwar
+ 
+#EXTINF:-1,Alhayat
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=alhayat
+ 
+#EXTINF:-1,Alhayat2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=alhayat_2
+ 
+#EXTINF:-1,Alhayat Musalsalat
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=alhayat_musalsalat
+ 
+#EXTINF:-1,AlNahar cinema
+http://50.7.137.2:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8?v=1279342241
+ 
+#EXTINF:-1,MelodyDrama
+http://38.96.148.164//MelodyDrama/smil:drama.smil/chunklist_w659482942_b1500000.m3u8
+ 
+#EXTINF:-1,MelodyClassic
+http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b1500000.m3u8
+ 
+#EXTINF:-1,MelodyClassic2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=melody_classic
+ 
+#EXTINF:-1,Melody Aflam
+http://38.96.148.164/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b1500000.m3u8
+ 
+#EXTINF:-1,Melody Hits
+http://38.96.148.164//MelodyHits/smil:hits.smil/chunklist_w242300260_b1500000.m3u8
+ 
+#EXTINF:-1,MelodyDrama
+http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b2400000.m3u8
+ 
+#EXTINF:-1,Mtv
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mtv
+ 
+#EXTINF:-1,Lbc
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=lbc
+ 
+#EXTINF:-1,LDC
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=ldc
+ 
+#EXTINF:-1,Aljadeed
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=aljadeed
+ 
+#EXTINF:-1,future
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=future
+ 
+#EXTINF:-1,NBN
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=nbn
+ 
+#EXTINF:-1,OTV Lebanon
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=otv_lebanon
+ 
+#EXTINF:-1,Al Manar
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_manar
+ 
+#EXTINF:-1,Taxi alsahra
+http://2.109.65.143/masa/14307.m3u8?v=1176025225
+ 
+#EXTINF:-1,MBC Masr
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr
+ 
+#EXTINF:-1,MBC Masr2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr_2
+ 
+#EXTINF:-1,MBC Drama
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_drama
+ 
+#EXTINF:0,MBC 1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_1
+ 
+#EXTINF:0,MBC 2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_2
+ 
+#EXTINF:0,MBC3
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_3
+ 
+#EXTINF:0,MBC4
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_4
+ 
+#EXTINF:0,MBC max
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_max
+ 
+#EXTINF:0,MBC Action
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_action
+ 
+#EXTINF:0,MBC Bollywood
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_bollywood
+ 
+#EXTINF:0,B4U Aflam
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=b4u_aflam
+ 
+#EXTINF:0,Zee Aflam
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=zee_aflam
+ 
+#EXTINF:0,Zee Alwan
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=zee_alwan
+ 
+#EXTINF:0,Funoon
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=funoon
+ 
+#EXTINF:0,Dubai
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=dubai
+ 
+#EXTINF:0,Dubai Drama
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
+ 
+#EXTINF:0,Sama Dubai
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=sama_dubai
+ 
+#EXTINF:0,Dubai one
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=dubai_one
+ 
+#EXTINF:0,Dubai sport 1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=dubai_sport_1
+ 
+#EXTINF:0,Bahrain
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bahrain
+ 
+#EXTINF:-0,Abu Dhabi
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=abu_dhabi
+ 
+#EXTINF:-0,Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=abu_dhabi_drama
+ 
+#EXTINF:-0,Aghanina
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=aghanina
+ 
+#EXTINF:-0,Sama TV
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=sama_tv
+ 
+#EXTINF:0,Syria
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=syria
+ 
+#EXTINF:0,Syria Drama
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=syria_drama
+ 
+#EXTINF:0,Al Iraqiya
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_iraqiya
+ 
+#EXTINF:0,Al Baghdadia
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_baghdadia
+ 
+#EXTINF:0,Qatar
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=qatar
+ 
+#EXTINF:0,Jordan TV
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=jordan
+ 
+#EXTINF:0,Palestine TV
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=palestine
+ 
+#EXTINF:0,Libya TV
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=libya_tv
+ 
+#EXTINF:0,Medi 1 sat
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=medi_1_sat
+ 
+#EXTINF:0,Aloula Maroc
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_aoula_maroc
+ 
+#EXTINF:0,2M
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=2m
+ 
+#EXTINF:0,Al maghribia
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=al_maghribia
+ 
+#EXTINF:0,Assadissa
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=assadissa
+ 
+#EXTINF:0,AlRiadia Sport
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=alriadia_sport
+ 
+ 
+#EXTINF:0,Tunisia National 1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=tunisia_national_1
+ 
+#EXTINF:0,Tunisia National 2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=tunisia_national_2
+ 
+#EXTINF:0,Tounesna
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=tounesna
+ 
+#EXTINF:0,Hanibal
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=hanibal
+ 
+#EXTINF:0,Nessma
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=nessma
+ 
+#EXTINF:0,Al Zaytoona
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=zaytoona
+ 
+#EXTINF:0,Algeria
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=algeria
+ 
+#EXTINF:0,Algeria 3
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=algeria_3
+ 
+#EXTINF:0,Ishtar TV
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=ishtar
+ 
+#EXTINF:0,Sudan
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=sudan_tv
+ 
+#EXTINF:0,Blue Nile
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=blue_nile
+ 
+#EXTINF:0,ANN
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=ann
+ 
+#EXTINF:0,Saudia 1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=ksa_1
+ 
+#EXTINF:0,Saudia 2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=ksa_2
+
+
+
+
  
 #EXTINF:-1,SOTAT JIMI
 http://flv2.alarab.com:8080//iphone/74722.mp4
