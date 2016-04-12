@@ -108,6 +108,13 @@ http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.
  
 #EXTINF:-1,Taxi alsahra
 http://2.109.65.143/masa/14307.m3u8?v=1176025225
+
+#EXTINF:0,2M
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=2M
+
+#EXTINF:0,MBC 4
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_4
+   
  
 #EXTINF:0,MBC
 http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_1
