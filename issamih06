@@ -118,6 +118,9 @@ http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_4
  
 #EXTINF:0,MBC
 http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_1
+
+#EXTINF:0,MBC 2
+http://www.elahmad.com/tv/swf/playlist.php?id=mbc2
  
 #EXTINF:-1,MBC Masr
 http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr
