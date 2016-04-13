@@ -71,6 +71,8 @@ http://37.187.140.23/origin02/amlst:2m-maroc/chunklist_w2021744534_b300000.m3u8
 http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=1130000.m3u8
 #EXTINF:-1, arriadia low
 http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=350000.m3u8
+#EXTINF:-1, arriadia
+http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=150000.m3u8
 #EXTINF:-1, arrabiaa
 http://arrabiaa-tv.scdn.arkena.com/arrabiaa.isml/arrabiaa-audio101=64000-video=1130000.m3u8
 #EXTINF:-1, almaghribya
