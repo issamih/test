@@ -82,7 +82,7 @@ http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-vide
 #EXTINF:-1, tamazight
 http://tamazight-tv.scdn.arkena.com/tamazight.isml/tamazight-audio101=64000-video=1130000.m3u8
 #EXTINF:-1, medi1 tv
-http://37.187.174.6/origin02/amlst:medi1tv/chunklist_w833133899_b800000.m3u8
+http://medi1stream.genious.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1,aljaleyatv
 http://70.25.55.38:1935/live/aljaleyatv/chunklist_w821993573.m3u8
