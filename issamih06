@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1, beIN Sports 1 HD
+http://50.7.69.138:8128/hls/bein1hd.m3u8
+#EXTINF:-1, beIN Sports 2 HD
+http://50.7.69.138:8128/hls/bein2hd.m3u8
+#EXTINF:-1, beIN Sports 3 HD
+http://50.7.69.138:8128/hls/bein3hd.m3u8
+#EXTINF:-1, beIN Sports 4 HD
+http://50.7.69.138:8128/hls/bein4hd.m3u8
+#EXTINF:-1, beIN Sports 5 HD
+http://50.7.69.138:8128/hls/bein5hd.m3u8
+#EXTINF:-1, beIN Sports 6 HD
+http://50.7.69.138:8128/hls/bein6hd.m3u8
+#EXTINF:-1, beIN Sports 7 HD
+http://50.7.69.138:8128/hls/bein7hd.m3u8
+#EXTINF:-1, beIN Sports 8 HD
+http://50.7.69.138:8128/hls/bein8hd.m3u8
+#EXTINF:-1, beIN Sports 9 HD
+http://50.7.69.138:8128/hls/bein9hd.m3u8
+#EXTINF:-1, beIN Sports 10 HD
+http://50.7.69.138:8128/hls/bein10hd.m3u8
 
 #EXTINF:0,ALJazeera AR
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
