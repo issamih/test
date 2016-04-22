@@ -913,3 +913,77 @@ http://38.99.146.36:7777/4Shbab_HD.m3u8
 http://38.99.146.36:7777/7Stars_HD.m3u8 
 #EXTINF:-1,A1 Jordan 
 http://38.99.146.36:7777/A1Jordan_HD.m3u8 
+
+#EXTM3U
+EXTINF:0,#EXTINF:-1 – France 2
+http://cdn-04.v-sr.net/gpl/z010105/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – France 3
+http://cdn-04.v-sr.net/gpl/z010111/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – France 5
+http://cdn-04.v-sr.net/gpl/z010113/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – D8
+http://cdn-04.v-sr.net/gpl/z050251/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – W9
+http://cdn-04.v-sr.net/gpl/z010108/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – TMC
+http://cdn-04.v-sr.net/gpl/z010101/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – NRJ12
+http://cdn-04.v-sr.net/gpl/z010110/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – M6
+http://cdn-04.v-sr.net/gpl/z010106/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – NT1
+http://cdn-04.v-sr.net/gpl/z050250/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – BElN SPORT1
+http://cdn-04.v-sr.net/gpl/z050345/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – BElN SPORT2
+http://cdn-04.v-sr.net/gpl/z050365/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – CANAL+
+http://cdn-04.v-sr.net/gpl/z050346/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – TF1
+http://cdn-04.v-sr.net/gpl/z010107/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – CANAL+ CINEMA
+http://cdn-04.v-sr.net/gpl/z050366/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – CANAL+ SPORT
+http://cdn-04.v-sr.net/gpl/z050367/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – CINE+ PREMIER
+http://cdn-04.v-sr.net/gpl/z050368/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – DISNEY CINEMAGIC FR
+http://cdn-04.v-sr.net/gpl/z050370/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – D17 FR
+http://cdn-04.v-sr.net/gpl/z050457/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – Gulli FR
+http://cdn-04.v-sr.net/gpl/z050458/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – FRANCE
+http://cdn-04.v-sr.net/gpl/z050459/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – RTL 9
+http://cdn-04.v-sr.net/gpl/z050460/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – AB MOTEURS FR
+http://cdn-04.v-sr.net/gpl/z050461/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – ANIMAUX FR
+http://cdn-04.v-sr.net/gpl/z050462/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – CHASSE & PECHE FR
+http://cdn-04.v-sr.net/gpl/z050463/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – Toute l Histoire FR
+http://cdn-04.v-sr.net/gpl/z050464/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – MANGAS FR
+http://cdn-04.v-sr.net/gpl/z050465/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – ENCYCLO FR
+http://cdn-04.v-sr.net/gpl/z050466/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – RTS Un FR
+http://cdn-04.v-sr.net/gpl/z050583/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – RTS Deux FR
+http://cdn-04.v-sr.net/gpl/z050584/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – CINE FX
+http://cdn-04.v-sr.net/gpl/z050704/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – CINE POLAR
+http://cdn-04.v-sr.net/gpl/z050705/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – Action
+http://cdn-04.v-sr.net/gpl/z050706/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – France 4
+http://cdn-04.v-sr.net/gpl/z053013/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – ARTE
+http://cdn-04.v-sr.net/gpl/z053014/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – Trek
+http://cdn-04.v-sr.net/gpl/z053015/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,#EXTINF:-1 – Science & Vie TV
+http://cdn-04.v-sr.net/gpl/z053016/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
