@@ -167,8 +167,8 @@ http://5.196.84.213:8888/alhayat_musalsalat.m3u8?idu=ukselim_85646860650
 #EXTINF:-1,Alhayat 2
 http://5.196.84.213:8888/alhayat_2.m3u8?idu=ukselim_85646860650
 
-
-
+#EXTINF:-1,test
+rtmp://androq.brazilia.me/iptv/ch764?code=390011227051729
 #EXTINF:-1,AL QUDS
 http://51.255.65.216/iptv/ch143?code=390011227051729
 
