@@ -5,7 +5,8 @@ http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
 http://50.7.168.162:8081/ro1/ro1/ro/v12001200400/chunks.m3u8
 #EXTINF:-1,CBC 
 http://50.7.168.162:8081/live2/live2/live/live/chunks.m3u8
-
+#EXTINF:-1,ART Aflam 1
+rtmp://5.196.84.213:1936/live?hghpl=704300810/art_aflam_1
 
 #EXTM3U
 #EXTINF:-1,AR OSN YA HALA DRAMA
