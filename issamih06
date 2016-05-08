@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1,MBC 1 
+http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
+#EXTINF:-1,ALHAYAT 
+http://50.7.168.162:8081/ro1/ro1/ro/v12001200400/chunks.m3u8
+#EXTINF:-1,CBC 
+http://50.7.168.162:8081/live2/live2/live/live/chunks.m3u8
+
+
+#EXTM3U
 #EXTINF:-1,AR OSN YA HALA DRAMA
 http://149.202.198.114:8000/play/arosnyahaladrama
 #EXTINF:-1,AR OSN box office 1
