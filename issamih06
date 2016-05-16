@@ -1,11 +1,6 @@
 
 #EXTM3U
 
-http://stream.magictvbox.com/live/al-nahar_plus2/index.m3u8
-http://stream.magictvbox.com/live/al-nahar_al_youm/index.m3u8
-http://stream.magictvbox.com/live/al-nahar_drama/index.m3u8
-http://stream.magictvbox.com/live/al_kahera_wal_nas/index.m3u8
-
 #EXTINF:-1,beinHD_Sports_HD1
 http://37.187.24.177:80/Hamadil1xa133/Hamadil1xa133/699.ch
 #EXTINF:-1,beinHD_Sports_HD2
