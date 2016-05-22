@@ -1,9 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1,rtmp
-rtmp://www.teledunet.net:1935/live?idu=issamih_82609301250/canal_plus_sport
-#EXTINF:-1, http
-http://www.teledunet.tv:8888/canal_plus_sport.m3u8?idu=issamih_82609301250
+
 #EXTINF:-1,beinHD_Sports_HD1
 http://37.187.24.177:80/Hamadil1xa133/Hamadil1xa133/699.ch
 #EXTINF:-1,beinHD_Sports_HD2
