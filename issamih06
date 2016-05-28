@@ -60,6 +60,60 @@ http://51.255.81.190:8080/OSN_MOVIES_ACTION/playlist.m3u8
 #EXTINF:-1,OSN Movies
 http://51.255.81.190:8080/OSN_MOVIES/playlist.m3u8
 
+#EXTINF:-1,Sky movies showcase
+http://51.255.81.190:8080/UK-Sky-Movies-Showcase/mono.m3u8
+#EXTINF:-1,Sky movies premier
+http://51.255.81.190:8080/UK-Sky-Movies-Premiere/mono.m3u8
+#EXTINF:-1,Sky movies action
+http://51.255.81.190:8080/UK-Sky-Movies-Action/mono.m3u8
+#EXTINF:-1,Sky movies comedy
+http://51.255.81.190:8080/UK-Sky-Movies-Comedy/mono.m3u8 
+#EXTINF:-1,MBC 2
+http://51.255.81.190:8080/MBC-2/playlist.m3u8
+#EXTINF:-1,MBC ACTION
+http://51.255.81.190:8080/MBC-Action/playlist.m3u8
+#EXTINF:-1,MBC Bollywood
+http://51.255.81.190:8080/MBC-Bollywood/playlist.m3u8
+#EXTINF:-1,bein Movies 1
+http://51.255.81.190:8080/Bein-MOVIES-1/playlist.m3u8
+#EXTINF:-1,OSN Movies Action
+http://51.255.81.190:8080/OSN_MOVIES_ACTION/playlist.m3u8
+#EXTINF:-1,OSN Movies
+http://51.255.81.190:8080/OSN_MOVIES/playlist.m3u8 
+#EXTINF:-1,Sky sport HD
+http://ns3038022.ip-51-255-81.eu:8080/IT-SKYSPORT1/mono.m3u8
+#EXTINF:-1,Sky sport 2 HD
+http://ns3038022.ip-51-255-81.eu:8080/IT-SKYSPORT2/mono.m3u8
+#EXTINF:-1,Bein Sport 1
+http://ns3038022.ip-51-255-81.eu:8080/FR-BEINSPORT-1/mono.m3u8
+#EXTINF:-1,Bein sport 2
+http://ns3038022.ip-51-255-81.eu:8080/FR-BEINSPORT-2/mono.m3u8
+#EXTINF:-1,Sky Sport 1 DE
+http://ns3038022.ip-51-255-81.eu:8080/DE-Sky-Sport-1HD/mono.m3u8
+#EXTINF:-1,Sky Sport 2 DE
+http://ns3038022.ip-51-255-81.eu:8080/DE-Sky-Sport-2HD/mono.m3u8
+#EXTINF:-1,Fox Sport 1
+http://ns3038022.ip-51-255-81.eu:8080/NL:Fox.Sports.1/mono.m3u8
+#EXTINF:-1,Fox Sport 2
+http://ns3038022.ip-51-255-81.eu:8080/NL:Fox.Sports.2/mono.m3u8
+#EXTINF:-1,Sport tv 1
+http://ns3038022.ip-51-255-81.eu:8080/PT:SPORT.TV1/mono.m3u8
+#EXTINF:-1,Sport tv 2
+http://ns3038022.ip-51-255-81.eu:8080/PT:SPORT.TV2/mono.m3u8
+#EXTINF:-1,BT Sport 1
+http://ns3038022.ip-51-255-81.eu:8080/UK-BT-Sport-1/mono.m3u8
+#EXTINF:-1,BT Sport 2
+http://ns3038022.ip-51-255-81.eu:8080/UK-BT-Sport-2/mono.m3u8
+#EXTINF:-1,Sky Sport 1 UK
+http://ns3038022.ip-51-255-81.eu:8080/UK-Sky-Sports-1/mono.m3u8
+#EXTINF:-1,Sky Sport 2 UK
+http://ns3038022.ip-51-255-81.eu:8080/UK-Sky-Sports-2/mono.m3u8
+#EXTINF:-1,Sky Sport 3 UK
+http://ns3038022.ip-51-255-81.eu:8080/UK-Sky-Sports-3/mono.m3u8
+#EXTINF:-1,Sky Sport 4 UK
+http://ns3038022.ip-51-255-81.eu:8080/UK-Sky-Sports-4/mono.m3u8
+#EXTINF:-1,Sky Sport 5 UK
+http://ns3038022.ip-51-255-81.eu:8080/UK-Sky-Sports-5/mono.m3u8
 
 
 #EXTM3U
