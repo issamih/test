@@ -953,7 +953,7 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 #EXTINF:-1,tvg-name="" tvg-logo="http://temosoft.com/wp-content/uploads/2015/04/mayadeen.jpg ",الميادين
 http://63.237.48.23/ios/ALMAYADEEN/ALMAYADEEN.m3u8
  
-
+s.akamaihd.net/live/233716_233717/besmena01s.isml/QualityLevels
 #EXTINF:-1,beIN_SPORTS_News (360p)
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/02.m3u8
 #EXTINF:-1,beIN_SPORTS_News (480p)
@@ -966,6 +966,9 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/06.m3u8
 #EXTINF:-1,beIN_SPORTS_News
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/07.m3u8
+#EXTINF:-1,beIN_SPORTS (720p)
+http://besmenaah-i.akamaihd.net/hls/live/233716/besmena01s/05.m3u8
+
 #EXTINF:-1,Bein sport1
 http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_sport_1
  
