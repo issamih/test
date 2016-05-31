@@ -2,6 +2,8 @@
 #EXTM3U
 #EXTINF:-1, Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, equipe21
+http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21
 #EXTINF:-1,N/A
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1,N/A
