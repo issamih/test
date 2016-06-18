@@ -2,6 +2,59 @@
 #EXTINF:-1 group-title="ALL issamih06",Real Madrid Tv
 #EXTINF:-1, Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Eurosport 2
+http://149.202.85.84:8080/EuroSp2-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Eurosport
+http://149.202.85.84:8080/EuroSp1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,BT Sport Europe
+http://149.202.85.84:8080/btSpEUrope-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://149.202.85.84:8080/btEspn-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Arena Sport 1
+http://149.202.85.84:8080/arenaSp1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Arena Sport 2
+http://149.202.85.84:8080/arenaSp2-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Arena Sport 3
+http://149.202.85.84:8080/arenaSp3-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Arena Sport 5
+http://149.202.85.84:8080/arenaSp5-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,SkySportsF1
+http://149.202.207.8:8080/skf1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,SKY SPORTS 1 [UK]
+http://149.202.207.8:8080/sk1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,SKY SPORTS 2 [UK]
+http://149.202.207.8:8080/sk2-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,SKY SPORTS 3 [UK]
+http://149.202.207.8:8080/sk3-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,SKY SPORTS 4 [UK]
+http://149.202.207.8:8080/sk4-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,SKY SPORTS 5 [UK]
+http://149.202.207.8:8080/sk5-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,BT SPORTS 1
+http://149.202.207.8:8080/bts1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,BT SPORTS 2
+http://149.202.207.8:8080/bts2-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,CTH1 Stadium
+http://149.202.207.8:8080/cth1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,CTH2 Stadium
+http://149.202.207.8:8080/cth2-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,CTH3 Stadium
+http://149.202.207.8:8080/cth3-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,CTH4 Stadium
+http://149.202.207.8:8080/cth4-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,CTH5 Stadium
+http://149.202.207.8:8080/cth5-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,Super Sports 1
+http://149.202.85.84:8080/supSp1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Super Sports 2
+http://149.202.85.84:8080/supSp2-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Super Sports 3
+http://149.202.85.84:8080/supSp3-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Super Sport 4
+http://149.202.85.84:8080/supSp4-94506afdjklfg/local/index.m3u8
+
+
 #EXTINF:-1,‬:-
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:-1,1, Travel Ch.
