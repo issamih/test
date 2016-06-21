@@ -2,6 +2,30 @@
 #EXTINF:-1 group-title="ALL issamih06",Real Madrid Tv
 #EXTINF:-1, Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#‎EXTINF‬:0,MY9HD-TEST
+http://163.172.214.251:8000/play/a01c
+#EXTINF:0,FOXHD
+http://163.172.214.251:8000/play/a015
+#EXTINF:0,FOXHD-TEST
+http://163.172.214.251:8000/play/a01b
+#EXTINF:0,ESPN HD
+http://163.172.214.251:8000/play/a017
+#EXTINF:0,ABCHD
+http://163.172.214.251:8000/play/a018
+#EXTINF:0,BeIN Sports US HD
+http://163.172.214.251:8000/play/a014
+#EXTINF:0,CBSHD- TEST
+http://163.172.214.251:8000/play/a01a
+#EXTINF:0,CWHD- TEST
+http://163.172.214.251:8000/play/a019
+#EXTINF:0,PBSHD-TEST
+http://163.172.214.251:8000/play/a01d
+#EXTINF:0,Nat Geo
+http://163.172.214.251:8000/play/a016
+#EXTINF:0,CP24HD
+http://163.172.214.251:8000/play/a013
+
 #‎EXTINF‬:-1,ESPN Brasil
 http://79.124.58.34:1935/liveedge/ch01-1/playlist.m3u8
 #EXTINF:-1,ESPN+
