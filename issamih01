@@ -11,4 +11,8 @@ http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/gmswf.m3u8?v=105388699
 rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
 #EXTINF:-1,alfajer tv2
 http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2/playlist.m3u8
+#EXTINF:-1,alfajer tv3
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv3/playlist.m3u8
+#EXTINF:-1,alfajer tv4
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv4/playlist.m3u8
 
