@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTINF:0 , group-title="Issam list",REAL MADRID TV HD
+#EXTINF:-1, group-title="Issam list",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1,aljaleyatv
 http://70.25.55.38:1935/live/aljaleyatv/chunklist_w821993573.m3u8
