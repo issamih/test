@@ -69,3 +69,17 @@ http://151.80.29.203:9900/live/Julian/Julian/6506.ts
 #EXTINF:-1,AR-Almaghribia-MAROC
 http://151.80.29.203:9900/live/Julian/Julian/6450.ts
 
+#EXTINF:0,SPORTV
+http://151.80.27.111:25461/live/jefferson1/123456/127.m3u8
+#EXTINF:0,SPORTV 2
+http://151.80.27.111:25461/live/jefferson1/123456/54.m3u8
+#EXTINF:0,ESPN
+http://151.80.27.111:25461/live/jefferson1/123456/77.m3u8
+#EXTINF:0,ESPN BRASIL
+http://151.80.27.111:25461/live/jefferson1/123456/101.m3u8
+#EXTINF:0,FOX SPORT
+http://151.80.27.111:25461/live/jefferson1/123456/73.m3u8
+#EXTINF:0,FOX SPORT 2
+http://151.80.27.111:25461/live/jefferson1/123456/72.m3u8
+#EXTINF:0,BAND SPORT
+http://151.80.27.111:25461/live/jefferson1/123456/84.m3u8
