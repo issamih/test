@@ -14,4 +14,58 @@ http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2/playlist.m3u8
 http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv3/playlist.m3u8
 #EXTINF:-1,alfajer tv4
 http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv4/playlist.m3u8
+#EXTINF:-1,♣♣♣♣♣Arabic♣♣♣♣♣
+http://151.80.29.203:9900/live/Julian/Julian/7440.ts
+#EXTINF:-1,OSN-Movies-2
+http://151.80.29.203:9900/live/Julian/Julian/4146.ts
+#EXTINF:-1,AR: BEINMOVIES_HD1
+http://151.80.29.203:9900/live/Julian/Julian/2011.ts
+#EXTINF:-1,AR: BEINMOVIES_HD2
+http://151.80.29.203:9900/live/Julian/Julian/2010.ts
+#EXTINF:-1,AR: BEINMOVIES_HD3
+http://151.80.29.203:9900/live/Julian/Julian/2009.ts
+#EXTINF:-1,BEIN SPORT HD9
+http://151.80.29.203:9900/live/Julian/Julian/7048.ts
+#EXTINF:-1,BEIN SPORT HD8
+http://151.80.29.203:9900/live/Julian/Julian/7047.ts
+#EXTINF:-1,BEIN SPORT HD10
+http://151.80.29.203:9900/live/Julian/Julian/7049.ts
+#EXTINF:-1,beINSPORT03_HD CSPPRO(local)
+http://151.80.29.203:9900/live/Julian/Julian/3810.ts
+#EXTINF:-1,beINSPORT05_HD CSPPRO(local)
+http://151.80.29.203:9900/live/Julian/Julian/3812.ts
+#EXTINF:-1,beINSPORT06_HD CSPPRO(local)
+http://151.80.29.203:9900/live/Julian/Julian/3813.ts
+#EXTINF:-1,beINSPORT07_HD CSPPRO(local)
+http://151.80.29.203:9900/live/Julian/Julian/3814.ts
+#EXTINF:-1,beINSPORT09_HD CSPPRO(local)
+http://151.80.29.203:9900/live/Julian/Julian/3816.ts
+#EXTINF:-1,beIN MAX_HD CSPPRO(local)
+http://151.80.29.203:9900/live/Julian/Julian/3809.ts
+#EXTINF:-1,AR-Tamazight
+http://151.80.29.203:9900/live/Julian/Julian/6454.ts
+#EXTINF:-1,AR-NATIONAL_GEO_ABU_DHABI
+http://151.80.29.203:9900/live/Julian/Julian/6492.ts
+#EXTINF:-1,AR-almajd-kids
+http://151.80.29.203:9900/live/Julian/Julian/6519.ts
+#EXTINF:-1,AR-ALJAZEERA_DOCUMENTARY
+http://151.80.29.203:9900/live/Julian/Julian/6513.ts
+#EXTINF:-1,AR-Al-Oula-MAROC
+http://151.80.29.203:9900/live/Julian/Julian/6452.ts
+#EXTINF:-1,◊◊◊◊IRAQ◊◊◊◊
+http://151.80.29.203:9900/live/Julian/Julian/16439.ts
+#EXTINF:-1,AR-AL-JAZEERA
+http://151.80.29.203:9900/live/Julian/Julian/6505.ts
+#EXTINF:-1,◊◊◊◊MORROCO◊◊◊◊
+http://151.80.29.203:9900/live/Julian/Julian/16440.ts
+#EXTINF:-1,AR-Assadissa
+http://151.80.29.203:9900/live/Julian/Julian/6455.ts
+#EXTINF:-1,AR-Arriadia-MAROC
+http://151.80.29.203:9900/live/Julian/Julian/6453.ts
+#EXTINF:-1,AR-Arrabiaa-MAROC
+http://151.80.29.203:9900/live/Julian/Julian/6456.ts
+#EXTINF:-1,AR-aljazeera-mubasher
+http://151.80.29.203:9900/live/Julian/Julian/6506.ts
+#EXTINF:-1,AR-Almaghribia-MAROC
+http://151.80.29.203:9900/live/Julian/Julian/6450.ts
 
