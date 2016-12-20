@@ -36,6 +36,8 @@ http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
 http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 #EXTINF:-1,Abu Dabi Sport 5 HD
 http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
+#EXTINF:0, BeIN News
+rtmp://iptv.livetv.tn/live/ch719?code=ea3050dac0b8133
 #EXTINF:0,Bein Sport 1 FR
 rtmp://iptv.livetv.tn/live/ch507?code=ea3050dac0b8133
 #EXTINF:0,Bein Sport 2 FR
