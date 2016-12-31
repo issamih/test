@@ -1,5 +1,67 @@
 #EXTINF:-1, group-title="Issam list",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/ca.png" group-title="Canada",[COLOR yellow]---------------------- Canada ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-id="TVAMTL1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/41/TVA_2012_logo.png" tvg-name="TVA1" group-title="Canada",TVA MONTREAL
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:0 tvg-name="TVA" tvg-language="French" tvg-id="TVA" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpjWHSKagePb0vB57A1-tLxSlBMqaY2RJ2vKYp7cpPQ54YxFOL group-title="Canada",TVA (French)
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RDS1" tvg-logo="http://www.rds.ca/img/bellmedia_rds/socialMedia.jpg" tvg-name="RDS" group-title="Canada",RDS
+http://rdshdulive-lh.akamaihd.net/i/rdshdu1_1@110201/index_896_av-b.m3u8
+#EXTINF:0 tvg-id="TVAGAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/41/TVA_2012_logo.png" tvg-name="TVA3" group-title="Canada",TVA Nouvelles Gatineau en direct - [COLOR yellow]En ondes à  18h les jours de semaine[/COLOR]
+rtmp://67.212.85.90/media/chot.tva
+#EXTINF:0 tvg-id="TVAABI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/41/TVA_2012_logo.png" tvg-name="TVA4" group-title="Canada",TVA Nouvelles Abitibi-Témiscamingue en direct - [COLOR yellow]En ondes à  18h les jours de semaine[/COLOR]
+rtmp://67.212.85.90/media/cfem.tva
+#EXTINF:0 tvg-id="RDI1" tvg-logo="rdi.png"  tvg-name="RDI" group-title="Canada",ICI RDI - [COLOR yellow]À partir de 20h les soirs de semaine[/COLOR]
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RDI2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png"  tvg-name="RDI2" group-title="Canada",ICI RDI 400 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RDI3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png"  tvg-name="RDI3" group-title="Canada",ICI RDI 800 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RDI4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png"  tvg-name="RDI4" group-title="Canada",ICI RDI 1200 kbps
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RDI5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png"  tvg-name="RDI5" group-title="Canada",ICI RDI HD
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="SRC1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC2" group-title="Canada",ICI Radio-Canada - Québec - CBVT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="SRC2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC2" group-title="Canada",ICI Radio-Canada - Ottawa-Gatineau - CBOFT-DT
+http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="SRC3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC3" group-title="Canada",ICI Radio-Canada - Trois-Rivières - CKTM-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0  tvg-id="SRC4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC4" group-title="Canada",ICI Radio-Canada - Rimouski - CJBR-DT
+http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="SRC5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC5" group-title="Canada",ICI Radio-Canada - Saguenay - CKTV-DT
+http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="SRC6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC6" group-title="Canada",ICI Radio-Canada - Sherbrooke - CKSH-DT
+http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="SRC7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC7" group-title="Canada",ICI Radio-Canada - Montréal
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" group-title="Canada",CBC (FRE)(CAN)
+http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/calgary_2x.png" group-title="Canada", Global Calgary HD
+http://link.theplatform.com/s/dtjsEC/7cZIekSWbaTh?feed=PROD%20-%20Live%20Stream%20Feed
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/edmonton.png" group-title="Canada", Global Edmonton HD
+http://link.theplatform.com/s/dtjsEC/166zTdtbfhcW?feed=PROD%20-%20Live%20Stream%20Feed
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/halifax_2x.png" group-title="Canada",Global Halifax HD
+http://link.theplatform.com/s/dtjsEC/Hf3kzMuKfZCO?feed=PROD%20-%20Live%20Stream%20Feed
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/toronto_2x.png" group-title="Canada",Global Toronto HD
+http://link.theplatform.com/s/dtjsEC/VhMJVcROT2P4?feed=PROD%20-%20Live%20Stream%20Feed
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/TWN_HD.PNG/200px-TWN_HD.PNG" group-title="Canada",Weather Network Canada HD
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1 tvg-logo="http://www.cpac.ca/wp-content/themes/cpac/_resources/_images/structure/642x220_cpac_main_logo.png" group-title="Canada",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png group-title="Canada",NETV Toronto
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png group-title="Canada",NETV Toronto (2)
+rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
+
+
+
+
+
+
 #EXTINF:-1,aljaleyatv
 http://70.25.55.38:1935/live/aljaleyatv/chunklist_w821993573.m3u8
 #EXTINF:-1,salamtv
