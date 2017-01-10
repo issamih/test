@@ -3,6 +3,11 @@
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/ca.png" group-title="Canada",[COLOR yellow]---------------------- Canada ----------------------[/COLOR]
 http://0.0.0.0:1234
 
+
+#EXTINF:-1, METRO TV (French)
+rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html
+
+
 #EXTINF:-1, LCN (French)
 rtmp://cp39414.live.edgefcs.net/live/lcn2@9754 playpath=lcn2@9754 swfVfy=true live=true
 
