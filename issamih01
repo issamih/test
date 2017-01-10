@@ -4,7 +4,7 @@
 http://0.0.0.0:1234
 
 #EXTINF:-1, LCN (French)
-rtmp://cp39414.live.edgefcs.net/live/lcn2@9753/lcn2@9753
+rtmp://cp39414.live.edgefcs.net/live/lcn2@9754 playpath=lcn2@9754 swfVfy=true live=true
 
 #EXTINF:0 tvg-id="TVAMTL1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/41/TVA_2012_logo.png" tvg-name="TVA1" group-title="Canada",TVA MONTREAL
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
