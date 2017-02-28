@@ -68,6 +68,8 @@ rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
 
 #EXTINF:-1, group-title="Issam list",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,Visionner « البث الحي لقناة beIN SPORTS الأخبارية » sur YouTube
+https://youtu.be/o10-vQokBuI
 
 
 #EXTINF:-1,aljaleyatv
