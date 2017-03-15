@@ -111,14 +111,24 @@ http://zona-live-tv.com/Ch/Arab/Arriadia.m3u8
 
 #EXTINF:-1,aljaleyatv
 http://70.25.55.38:1935/live/aljaleyatv/chunklist_w821993573.m3u8
+
+
+#EXTINF:-1,Arriadia
+http://bl.movcast.tv:1935/icoolkora/maghribia3_360p/playlist.m3u8
+
+#EXTINF:-1,kolalnas
+http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,ajyal
+http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
 #EXTINF:-1,salamtv
-rtmp://46.43.64.166/salamtv/salamtv 
+http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
 #EXTINF:-1,alfajer tv
 http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/gmswf.m3u8?v=1053886998
 #EXTINF:-1,alfajer tv s2
-rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
 #EXTINF:-1,alfajer tv2
-http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2/playlist.m3u8
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/playlist.m3u8
 #EXTINF:-1,alfajer tv3
 http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv3/playlist.m3u8
 #EXTINF:-1,alfajer tv4
