@@ -3,43 +3,6 @@
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/ca.png" group-title="Canada",[COLOR yellow]---------------------- Canada ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,TSN SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna1/index.m3u8
-#EXTINF:-1,TSN SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna2/index.m3u8
-#EXTINF:-1,TSN SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna3/index.m3u8
-#EXTINF:-1,TSN SPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
-#EXTINF:-1,TSN SPORT 5
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
-#EXTINF:-1,US:FOX SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8
-#EXTINF:-1,US:FOX SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8
-
-#EXTINF:-1,ARENA SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8
-#EXTINF:-1,ARENA SPORT 5
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-1nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-2nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-3nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-4nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 5
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-5nl/Strm/index.m3u8
-#EXTINF:-1,NL: FOX SPORT 6
-http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-6nl/Strm/index.m3u8
 
 #EXTINF:-1, METRO TV (French)
 rtmp://cp228779.live.edgefcs.net:1935/live playpath=metrovision_live@138690 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tv.webactu-webtv.com/canada3/metro.html
